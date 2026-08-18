@@ -54,7 +54,31 @@
       "registered": false,
       "registeredAt": 0,
       "level": 1,
-      "exp": 10,
+      "exp": 15,
+      "money": 0,
+      "lastClaim": 0,
+      "lastDaily": 0,
+      "lastWeekly": 0,
+      "lastMonthly": 0,
+      "banned": false,
+      "bannedReason": "",
+      "warning": 0,
+      "afk": false,
+      "afkReason": "",
+      "afkTime": 0,
+      "inventory": [],
+      "customData": {},
+      "premium": false,
+      "premiumExpired": 0,
+      "premiumType": ""
+    },
+    "6283185873535@s.whatsapp.net": {
+      "jid": "6283185873535@s.whatsapp.net",
+      "name": "",
+      "registered": false,
+      "registeredAt": 0,
+      "level": 1,
+      "exp": 0,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -79,12 +103,14 @@
         "daily": {
           "6285147519536@s.whatsapp.net": 19,
           "6282133025887@s.whatsapp.net": 8,
-          "6289676902300@s.whatsapp.net": 8
+          "6289676902300@s.whatsapp.net": 9,
+          "6283185873535@s.whatsapp.net": 1
         },
         "weekly": {
           "6285147519536@s.whatsapp.net": 19,
           "6282133025887@s.whatsapp.net": 8,
-          "6289676902300@s.whatsapp.net": 8
+          "6289676902300@s.whatsapp.net": 9,
+          "6283185873535@s.whatsapp.net": 1
         }
       },
       "welcomeText": "tes"
