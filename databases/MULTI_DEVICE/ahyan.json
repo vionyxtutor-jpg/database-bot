@@ -6,7 +6,7 @@
       "registered": false,
       "registeredAt": 0,
       "level": 0,
-      "exp": 35,
+      "exp": 40,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -169,10 +169,10 @@
     "120363427213259333@g.us": {
       "stats": {
         "daily": {
-          "6285147519536@s.whatsapp.net": 7
+          "6285147519536@s.whatsapp.net": 8
         },
         "weekly": {
-          "6285147519536@s.whatsapp.net": 7
+          "6285147519536@s.whatsapp.net": 8
         }
       },
       "afk": {}
