@@ -2,11 +2,11 @@
   "users": {
     "6285147519536@s.whatsapp.net": {
       "jid": "6285147519536@s.whatsapp.net",
-      "name": "",
-      "registered": false,
-      "registeredAt": 0,
+      "name": "ahyan",
+      "registered": true,
+      "registeredAt": 1787046714555,
       "level": 0,
-      "exp": 5,
+      "exp": 15,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -169,10 +169,10 @@
     "120363427213259333@g.us": {
       "stats": {
         "daily": {
-          "6285147519536@s.whatsapp.net": 1
+          "6285147519536@s.whatsapp.net": 3
         },
         "weekly": {
-          "6285147519536@s.whatsapp.net": 1
+          "6285147519536@s.whatsapp.net": 3
         }
       },
       "afk": {}
