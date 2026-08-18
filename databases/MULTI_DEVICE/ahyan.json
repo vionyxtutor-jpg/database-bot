@@ -2,9 +2,9 @@
   "users": {
     "6285147519536@s.whatsapp.net": {
       "jid": "6285147519536@s.whatsapp.net",
-      "name": "ahyan",
-      "registered": true,
-      "registeredAt": 1787046396291,
+      "name": "",
+      "registered": false,
+      "registeredAt": 0,
       "level": 0,
       "exp": 5,
       "money": 0,
