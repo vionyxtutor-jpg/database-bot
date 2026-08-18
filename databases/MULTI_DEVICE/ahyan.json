@@ -6,7 +6,7 @@
       "registered": false,
       "registeredAt": 0,
       "level": 0,
-      "exp": 0,
+      "exp": 25,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -332,9 +332,9 @@
       "jid": "6285147519536@s.whatsapp.net",
       "name": "ahyan",
       "registered": true,
-      "registeredAt": 1787045309431,
+      "registeredAt": 1787045491178,
       "level": 0,
-      "exp": 5,
+      "exp": 10,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -661,19 +661,27 @@
     "120363427213259333@g.us": {
       "stats": {
         "daily": {
-          "6289676902300@s.whatsapp.net": 1,
+          "6289676902300@s.whatsapp.net": 8,
           "6285123721742@s.whatsapp.net": 1,
-          "6285147519536@s.whatsapp.net": 1,
-          "6285147584736@s.whatsapp.net": 3
+          "6285147519536@s.whatsapp.net": 3,
+          "6285147584736@s.whatsapp.net": 7
         },
         "weekly": {
-          "6289676902300@s.whatsapp.net": 1,
+          "6289676902300@s.whatsapp.net": 8,
           "6285123721742@s.whatsapp.net": 1,
-          "6285147519536@s.whatsapp.net": 1,
-          "6285147584736@s.whatsapp.net": 3
+          "6285147519536@s.whatsapp.net": 3,
+          "6285147584736@s.whatsapp.net": 7
         }
       },
-      "afk": {}
+      "afk": {},
+      "mute": false,
+      "goodbye": false,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null
     }
   },
   "antilink": {
