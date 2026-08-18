@@ -1,6 +1,59 @@
 {
-  "users": {},
-  "groups": {},
-  "antilink": {},
-  "sewa": {}
+  "users": {
+    "6285147519536@s.whatsapp.net": {
+      "jid": "6285147519536@s.whatsapp.net",
+      "name": "",
+      "registered": false,
+      "registeredAt": 0,
+      "level": 1,
+      "exp": 0,
+      "money": 0,
+      "lastClaim": 0,
+      "lastDaily": 0,
+      "lastWeekly": 0,
+      "lastMonthly": 0,
+      "banned": false,
+      "bannedReason": "",
+      "warning": 0,
+      "afk": false,
+      "afkReason": "",
+      "afkTime": 0,
+      "inventory": [],
+      "customData": {},
+      "premium": false,
+      "premiumExpired": 0,
+      "premiumType": ""
+    }
+  },
+  "groups": {
+    "120363427213259333@g.us": {
+      "stats": {
+        "daily": {
+          "6285147519536@s.whatsapp.net": 1
+        },
+        "weekly": {
+          "6285147519536@s.whatsapp.net": 1
+        }
+      }
+    }
+  },
+  "antilink": {
+    "120363427213259333@g.us": {
+      "all": false,
+      "gc": false,
+      "ch": false,
+      "fb": false,
+      "ig": false,
+      "tg": false,
+      "tt": false,
+      "tw": false
+    }
+  },
+  "sewa": {
+    "120363427213259333@g.us": {
+      "active": false,
+      "expired": 0,
+      "type": ""
+    }
+  }
 }
