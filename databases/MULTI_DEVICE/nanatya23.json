@@ -6,7 +6,7 @@
       "registered": true,
       "registeredAt": 1787117442353,
       "level": 0,
-      "exp": 85,
+      "exp": 105,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -169,19 +169,26 @@
     "120363429406713930@g.us": {
       "stats": {
         "daily": {
-          "6287797065817@s.whatsapp.net": 17
+          "6287797065817@s.whatsapp.net": 23
         },
         "weekly": {
-          "6287797065817@s.whatsapp.net": 17
+          "6287797065817@s.whatsapp.net": 23
         }
       },
-      "afk": {}
+      "afk": {},
+      "goodbye": false,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null
     }
   },
   "antilink": {
     "120363429406713930@g.us": {
       "all": false,
-      "gc": false,
+      "gc": true,
       "ch": false,
       "fb": false,
       "ig": false,
