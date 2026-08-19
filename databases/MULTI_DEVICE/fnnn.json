@@ -166,11 +166,11 @@
     },
     "6285750843391@s.whatsapp.net": {
       "jid": "6285750843391@s.whatsapp.net",
-      "name": "",
-      "registered": false,
-      "registeredAt": 0,
+      "name": "fan 16",
+      "registered": true,
+      "registeredAt": 1787143312470,
       "level": 0,
-      "exp": 30,
+      "exp": 40,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -1164,10 +1164,10 @@
       "mute": false,
       "stats": {
         "daily": {
-          "6285750843391@s.whatsapp.net": 3
+          "6285750843391@s.whatsapp.net": 4
         },
         "weekly": {
-          "6285750843391@s.whatsapp.net": 3
+          "6285750843391@s.whatsapp.net": 4
         }
       },
       "customData": {},
@@ -1187,11 +1187,11 @@
       "mute": false,
       "stats": {
         "daily": {
-          "6285750843391@s.whatsapp.net": 6,
+          "6285750843391@s.whatsapp.net": 7,
           "6285757044985@s.whatsapp.net": 4
         },
         "weekly": {
-          "6285750843391@s.whatsapp.net": 6,
+          "6285750843391@s.whatsapp.net": 7,
           "6285757044985@s.whatsapp.net": 4
         }
       },
