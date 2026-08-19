@@ -166,11 +166,11 @@
     },
     "6281949852948@s.whatsapp.net": {
       "jid": "6281949852948@s.whatsapp.net",
-      "name": "",
-      "registered": false,
-      "registeredAt": 0,
+      "name": "tatacyror",
+      "registered": true,
+      "registeredAt": 1787134207181,
       "level": 0,
-      "exp": 30,
+      "exp": 35,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -45926,11 +45926,11 @@
       "stats": {
         "daily": {
           "6287797065817@s.whatsapp.net": 91,
-          "6281949852948@s.whatsapp.net": 3
+          "6281949852948@s.whatsapp.net": 4
         },
         "weekly": {
           "6287797065817@s.whatsapp.net": 91,
-          "6281949852948@s.whatsapp.net": 3
+          "6281949852948@s.whatsapp.net": 4
         }
       },
       "afk": {},
