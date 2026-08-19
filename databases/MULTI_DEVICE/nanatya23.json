@@ -6,7 +6,7 @@
       "registered": true,
       "registeredAt": 1787117442353,
       "level": 0,
-      "exp": 145,
+      "exp": 150,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -333,15 +333,15 @@
     "120363429406713930@g.us": {
       "stats": {
         "daily": {
-          "6287797065817@s.whatsapp.net": 32
+          "6287797065817@s.whatsapp.net": 33
         },
         "weekly": {
-          "6287797065817@s.whatsapp.net": 32
+          "6287797065817@s.whatsapp.net": 33
         }
       },
       "afk": {},
       "goodbye": false,
-      "welcomeText": null,
+      "welcomeText": "selamat datang di xox famous",
       "byeText": null,
       "welcomeImg": null,
       "byeImg": null,
