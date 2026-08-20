@@ -6,7 +6,7 @@
       "registered": true,
       "registeredAt": 1787117442353,
       "level": 0,
-      "exp": 989,
+      "exp": 999,
       "money": 5,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -56491,6 +56491,36 @@
       "antispam": false,
       "mute": false,
       "customData": {}
+    },
+    "120363428561203531@g.us": {
+      "jid": "120363428561203531@g.us",
+      "name": "",
+      "welcome": false,
+      "goodbye": false,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null,
+      "antilink": false,
+      "antilinkAction": "kick",
+      "antibot": false,
+      "antidelete": false,
+      "antivirtex": false,
+      "antitoxic": false,
+      "antispam": false,
+      "mute": false,
+      "customData": {},
+      "stats": {
+        "daily": {
+          "6287797065817@s.whatsapp.net": 2
+        },
+        "weekly": {
+          "6287797065817@s.whatsapp.net": 2
+        }
+      },
+      "afk": {}
     }
   },
   "antilink": {
@@ -56573,6 +56603,16 @@
       "tg": false,
       "tt": false,
       "tw": false
+    },
+    "120363428561203531@g.us": {
+      "all": false,
+      "gc": false,
+      "ch": false,
+      "fb": false,
+      "ig": false,
+      "tg": false,
+      "tt": false,
+      "tw": false
     }
   },
   "sewa": {
@@ -56612,6 +56652,11 @@
       "type": ""
     },
     "120363428114909873@g.us": {
+      "active": false,
+      "expired": 0,
+      "type": ""
+    },
+    "120363428561203531@g.us": {
       "active": false,
       "expired": 0,
       "type": ""
