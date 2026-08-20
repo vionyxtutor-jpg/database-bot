@@ -5,8 +5,8 @@
       "name": "tatacyror",
       "registered": true,
       "registeredAt": 1787117442353,
-      "level": 0,
-      "exp": 999,
+      "level": 2,
+      "exp": 4,
       "money": 5,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -56514,10 +56514,10 @@
       "customData": {},
       "stats": {
         "daily": {
-          "6287797065817@s.whatsapp.net": 2
+          "6287797065817@s.whatsapp.net": 3
         },
         "weekly": {
-          "6287797065817@s.whatsapp.net": 2
+          "6287797065817@s.whatsapp.net": 3
         }
       },
       "afk": {}
