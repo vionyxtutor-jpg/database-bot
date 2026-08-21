@@ -848,6 +848,29 @@
       },
       "customData": {},
       "afk": {}
+    },
+    "120363410740966567@g.us": {
+      "jid": "120363410740966567@g.us",
+      "welcome": false,
+      "leave": false,
+      "antilink": false,
+      "antilinkAction": "kick",
+      "antibot": false,
+      "antidelete": false,
+      "antivirtex": false,
+      "antitoxic": false,
+      "antispam": false,
+      "mute": false,
+      "stats": {
+        "daily": {
+          "15878846582@s.whatsapp.net": 1
+        },
+        "weekly": {
+          "15878846582@s.whatsapp.net": 1
+        }
+      },
+      "customData": {},
+      "afk": {}
     }
   },
   "antilink": {
@@ -860,10 +883,25 @@
       "tg": false,
       "tt": false,
       "tw": false
+    },
+    "120363410740966567@g.us": {
+      "all": false,
+      "gc": false,
+      "ch": false,
+      "fb": false,
+      "ig": false,
+      "tg": false,
+      "tt": false,
+      "tw": false
     }
   },
   "sewa": {
     "120363428525974937@g.us": {
+      "active": false,
+      "expired": 0,
+      "type": ""
+    },
+    "120363410740966567@g.us": {
       "active": false,
       "expired": 0,
       "type": ""
