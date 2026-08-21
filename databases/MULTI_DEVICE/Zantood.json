@@ -2831,7 +2831,7 @@
       "registered": true,
       "registeredAt": 1786888053741,
       "level": 16,
-      "exp": 13861,
+      "exp": 13866,
       "money": 1084709,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -14672,14 +14672,14 @@
     "120363410025330293@g.us": {
       "stats": {
         "daily": {
-          "6283869455559@s.whatsapp.net": 73,
+          "6283869455559@s.whatsapp.net": 74,
           "6283193088718@s.whatsapp.net": 13,
-          "6281931260555@s.whatsapp.net": 39
+          "6281931260555@s.whatsapp.net": 42
         },
         "weekly": {
-          "6283869455559@s.whatsapp.net": 73,
+          "6283869455559@s.whatsapp.net": 74,
           "6283193088718@s.whatsapp.net": 13,
-          "6281931260555@s.whatsapp.net": 39
+          "6281931260555@s.whatsapp.net": 42
         }
       },
       "afk": {},
