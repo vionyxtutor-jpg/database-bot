@@ -166,11 +166,11 @@
     },
     "15878846582@s.whatsapp.net": {
       "jid": "15878846582@s.whatsapp.net",
-      "name": "",
-      "registered": false,
-      "registeredAt": 0,
+      "name": "ave",
+      "registered": true,
+      "registeredAt": 1787283378026,
       "level": 0,
-      "exp": 5,
+      "exp": 15,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -836,14 +836,14 @@
       "mute": false,
       "stats": {
         "daily": {
-          "15878846582@s.whatsapp.net": 2,
-          "6289602099330@s.whatsapp.net": 1,
-          "6285124724842@s.whatsapp.net": 1
+          "15878846582@s.whatsapp.net": 5,
+          "6289602099330@s.whatsapp.net": 4,
+          "6285124724842@s.whatsapp.net": 4
         },
         "weekly": {
-          "15878846582@s.whatsapp.net": 2,
-          "6289602099330@s.whatsapp.net": 1,
-          "6285124724842@s.whatsapp.net": 1
+          "15878846582@s.whatsapp.net": 5,
+          "6289602099330@s.whatsapp.net": 4,
+          "6285124724842@s.whatsapp.net": 4
         }
       },
       "customData": {},
