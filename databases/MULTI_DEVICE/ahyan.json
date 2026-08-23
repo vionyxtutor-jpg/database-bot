@@ -3610,11 +3610,11 @@
     },
     "6282361031660@s.whatsapp.net": {
       "jid": "6282361031660@s.whatsapp.net",
-      "name": "",
-      "registered": false,
-      "registeredAt": 0,
+      "name": "daftar Yoshinoこ",
+      "registered": true,
+      "registeredAt": 1787468539081,
       "level": 0,
-      "exp": 160,
+      "exp": 180,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -13491,7 +13491,7 @@
       "registered": true,
       "registeredAt": 1785830400728,
       "level": 0,
-      "exp": 90,
+      "exp": 95,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -59226,7 +59226,7 @@
           "6282315719151@s.whatsapp.net": 15,
           "6285545190064@s.whatsapp.net": 4,
           "6285250782570@s.whatsapp.net": 3,
-          "6288705508364@s.whatsapp.net": 19,
+          "6288705508364@s.whatsapp.net": 20,
           "628971154066@s.whatsapp.net": 6,
           "6282267600994@s.whatsapp.net": 18,
           "6285814046263@s.whatsapp.net": 7,
@@ -59296,7 +59296,7 @@
           "6282315719151@s.whatsapp.net": 15,
           "6285545190064@s.whatsapp.net": 4,
           "6285250782570@s.whatsapp.net": 3,
-          "6288705508364@s.whatsapp.net": 19,
+          "6288705508364@s.whatsapp.net": 20,
           "628971154066@s.whatsapp.net": 6,
           "6282267600994@s.whatsapp.net": 18,
           "6285814046263@s.whatsapp.net": 7,
@@ -59447,7 +59447,8 @@
           "33643233804539@lid": 7,
           "6285750843391@s.whatsapp.net": 2,
           "6285381196398@s.whatsapp.net": 38,
-          "6289673910912@s.whatsapp.net": 2
+          "6289673910912@s.whatsapp.net": 2,
+          "6282361031660@s.whatsapp.net": 4
         },
         "weekly": {
           "6282135318890@s.whatsapp.net": 132,
@@ -59521,7 +59522,8 @@
           "33643233804539@lid": 7,
           "6285750843391@s.whatsapp.net": 2,
           "6285381196398@s.whatsapp.net": 38,
-          "6289673910912@s.whatsapp.net": 2
+          "6289673910912@s.whatsapp.net": 2,
+          "6282361031660@s.whatsapp.net": 4
         }
       },
       "customData": {},
