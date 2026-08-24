@@ -2302,7 +2302,7 @@
       "registered": false,
       "registeredAt": 0,
       "level": 0,
-      "exp": 0,
+      "exp": 5,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -3888,6 +3888,17 @@
       "antispam": false,
       "mute": false,
       "customData": {}
+    },
+    "120363413507742017@g.us": {
+      "stats": {
+        "daily": {
+          "6285892116592@s.whatsapp.net": 2
+        },
+        "weekly": {
+          "6285892116592@s.whatsapp.net": 2
+        }
+      },
+      "afk": {}
     }
   },
   "antilink": {
@@ -3910,6 +3921,16 @@
       "tg": false,
       "tt": false,
       "tw": false
+    },
+    "120363413507742017@g.us": {
+      "all": false,
+      "gc": false,
+      "ch": false,
+      "fb": false,
+      "ig": false,
+      "tg": false,
+      "tt": false,
+      "tw": false
     }
   },
   "sewa": {
@@ -3919,6 +3940,11 @@
       "type": ""
     },
     "120363410740966567@g.us": {
+      "active": false,
+      "expired": 0,
+      "type": ""
+    },
+    "120363413507742017@g.us": {
       "active": false,
       "expired": 0,
       "type": ""
