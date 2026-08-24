@@ -2298,11 +2298,11 @@
     },
     "6285892116592@s.whatsapp.net": {
       "jid": "6285892116592@s.whatsapp.net",
-      "name": "",
-      "registered": false,
-      "registeredAt": 0,
+      "name": "jasmin",
+      "registered": true,
+      "registeredAt": 1787560950954,
       "level": 0,
-      "exp": 10,
+      "exp": 15,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -3892,10 +3892,10 @@
     "120363413507742017@g.us": {
       "stats": {
         "daily": {
-          "6285892116592@s.whatsapp.net": 3
+          "6285892116592@s.whatsapp.net": 5
         },
         "weekly": {
-          "6285892116592@s.whatsapp.net": 3
+          "6285892116592@s.whatsapp.net": 5
         }
       },
       "afk": {}
