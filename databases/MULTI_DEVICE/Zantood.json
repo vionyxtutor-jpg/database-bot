@@ -6,7 +6,7 @@
       "registered": true,
       "registeredAt": 1785121536047,
       "level": 14,
-      "exp": 4901,
+      "exp": 4926,
       "money": 309902,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -16496,20 +16496,20 @@
     "120363410025330293@g.us": {
       "stats": {
         "daily": {
-          "6283869455559@s.whatsapp.net": 175,
+          "6283869455559@s.whatsapp.net": 181,
           "6283193088718@s.whatsapp.net": 13,
           "6281931260555@s.whatsapp.net": 87,
           "60145490571@s.whatsapp.net": 1
         },
         "weekly": {
-          "6283869455559@s.whatsapp.net": 175,
+          "6283869455559@s.whatsapp.net": 181,
           "6283193088718@s.whatsapp.net": 13,
           "6281931260555@s.whatsapp.net": 87,
           "60145490571@s.whatsapp.net": 1
         }
       },
       "afk": {},
-      "goodbye": false,
+      "goodbye": true,
       "welcomeText": "𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐀𝐑𝐂𝐀𝐍𝐈𝐒 𝐂𝐈𝐑𝐂𝐋𝐄\n\n𝐀𝐑𝐂𝐀𝐍𝐈𝐒 𝐂𝐈𝐑𝐂𝐋𝐄 — bukan sekadar tempat berkumpul,\ntapi tempat untuk bertemu, bermain, berproses, dan menciptakan banyak cerita bersama.\n✦ 𝐒𝐭𝐚𝐲 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝. 𝐒𝐭𝐚𝐲 𝐒𝐨𝐥𝐢𝐝. 𝐒𝐭𝐚𝐲 𝐀𝐒𝐂. ✦",
       "byeText": "pergi kau suki liar (@user) dari grup",
       "welcomeImg": null,
