@@ -2302,7 +2302,7 @@
       "registered": true,
       "registeredAt": 1787560950954,
       "level": 0,
-      "exp": 35,
+      "exp": 60,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -2458,7 +2458,13 @@
       "makananphonix": 0,
       "makanangriffin": 0,
       "makanankyubi": 0,
-      "makanancentaur": 0
+      "makanancentaur": 0,
+      "_tfDodge": {
+        "count": 0,
+        "firstTime": 0,
+        "locked": false,
+        "lockUntil": 0
+      }
     },
     "120363349140729983@s.whatsapp.net": {
       "jid": "120363349140729983@s.whatsapp.net",
@@ -3942,7 +3948,7 @@
       "registered": true,
       "registeredAt": 1787576420121,
       "level": 0,
-      "exp": 241,
+      "exp": 261,
       "money": 1,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -4548,16 +4554,16 @@
     "120363413507742017@g.us": {
       "stats": {
         "daily": {
-          "6285892116592@s.whatsapp.net": 113,
+          "6285892116592@s.whatsapp.net": 122,
           "639050937809@s.whatsapp.net": 72,
-          "6288976304944@s.whatsapp.net": 44,
+          "6288976304944@s.whatsapp.net": 55,
           "6282245078619@s.whatsapp.net": 71,
           "6285878028359@s.whatsapp.net": 1
         },
         "weekly": {
-          "6285892116592@s.whatsapp.net": 113,
+          "6285892116592@s.whatsapp.net": 122,
           "639050937809@s.whatsapp.net": 72,
-          "6288976304944@s.whatsapp.net": 44,
+          "6288976304944@s.whatsapp.net": 55,
           "6282245078619@s.whatsapp.net": 71,
           "6285878028359@s.whatsapp.net": 1
         }
