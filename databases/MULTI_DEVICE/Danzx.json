@@ -10185,7 +10185,7 @@
       "stats": {
         "daily": {
           "6285251035857@s.whatsapp.net": 1,
-          "6285745144978@s.whatsapp.net": 2,
+          "6285745144978@s.whatsapp.net": 3,
           "6281573573688@s.whatsapp.net": 3,
           "6282299270252@s.whatsapp.net": 2,
           "94789954971@s.whatsapp.net": 3,
@@ -10229,7 +10229,7 @@
         },
         "weekly": {
           "6285251035857@s.whatsapp.net": 1,
-          "6285745144978@s.whatsapp.net": 2,
+          "6285745144978@s.whatsapp.net": 3,
           "6281573573688@s.whatsapp.net": 3,
           "6282299270252@s.whatsapp.net": 2,
           "94789954971@s.whatsapp.net": 3,
@@ -10391,10 +10391,10 @@
       "mute": false,
       "stats": {
         "daily": {
-          "628984582303@s.whatsapp.net": 32
+          "628984582303@s.whatsapp.net": 36
         },
         "weekly": {
-          "628984582303@s.whatsapp.net": 32
+          "628984582303@s.whatsapp.net": 36
         }
       },
       "customData": {},
