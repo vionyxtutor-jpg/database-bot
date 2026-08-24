@@ -4384,16 +4384,16 @@
     "120363413507742017@g.us": {
       "stats": {
         "daily": {
-          "6285892116592@s.whatsapp.net": 71,
-          "639050937809@s.whatsapp.net": 56,
-          "6288976304944@s.whatsapp.net": 12,
-          "6282245078619@s.whatsapp.net": 37
+          "6285892116592@s.whatsapp.net": 85,
+          "639050937809@s.whatsapp.net": 68,
+          "6288976304944@s.whatsapp.net": 15,
+          "6282245078619@s.whatsapp.net": 48
         },
         "weekly": {
-          "6285892116592@s.whatsapp.net": 71,
-          "639050937809@s.whatsapp.net": 56,
-          "6288976304944@s.whatsapp.net": 12,
-          "6282245078619@s.whatsapp.net": 37
+          "6285892116592@s.whatsapp.net": 85,
+          "639050937809@s.whatsapp.net": 68,
+          "6288976304944@s.whatsapp.net": 15,
+          "6282245078619@s.whatsapp.net": 48
         }
       },
       "afk": {},
@@ -4449,6 +4449,27 @@
     },
     "120363410536930624@g.us": {
       "jid": "120363410536930624@g.us",
+      "name": "",
+      "welcome": false,
+      "goodbye": false,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null,
+      "antilink": false,
+      "antilinkAction": "kick",
+      "antibot": false,
+      "antidelete": false,
+      "antivirtex": false,
+      "antitoxic": false,
+      "antispam": false,
+      "mute": false,
+      "customData": {}
+    },
+    "120363428192441881@g.us": {
+      "jid": "120363428192441881@g.us",
       "name": "",
       "welcome": false,
       "goodbye": false,
