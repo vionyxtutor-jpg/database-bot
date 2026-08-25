@@ -170,7 +170,7 @@
       "registered": true,
       "registeredAt": 1787143312470,
       "level": 0,
-      "exp": 628,
+      "exp": 633,
       "money": 1,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -20751,6 +20751,52 @@
       "antispam": false,
       "mute": false,
       "customData": {}
+    },
+    "120363402609054503@g.us": {
+      "jid": "120363402609054503@g.us",
+      "welcome": false,
+      "leave": false,
+      "antilink": false,
+      "antilinkAction": "kick",
+      "antibot": false,
+      "antidelete": false,
+      "antivirtex": false,
+      "antitoxic": false,
+      "antispam": false,
+      "mute": false,
+      "stats": {
+        "daily": {
+          "6285750843391@s.whatsapp.net": 3,
+          "62895323060893@s.whatsapp.net": 2
+        },
+        "weekly": {
+          "6285750843391@s.whatsapp.net": 3,
+          "62895323060893@s.whatsapp.net": 2
+        }
+      },
+      "customData": {},
+      "afk": {}
+    },
+    "120363410784202133@g.us": {
+      "jid": "120363410784202133@g.us",
+      "name": "",
+      "welcome": false,
+      "goodbye": false,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null,
+      "antilink": false,
+      "antilinkAction": "kick",
+      "antibot": false,
+      "antidelete": false,
+      "antivirtex": false,
+      "antitoxic": false,
+      "antispam": false,
+      "mute": false,
+      "customData": {}
     }
   },
   "antilink": {
@@ -20803,6 +20849,16 @@
       "tg": false,
       "tt": false,
       "tw": false
+    },
+    "120363402609054503@g.us": {
+      "all": false,
+      "gc": false,
+      "ch": false,
+      "fb": false,
+      "ig": false,
+      "tg": false,
+      "tt": false,
+      "tw": false
     }
   },
   "sewa": {
@@ -20827,6 +20883,11 @@
       "type": ""
     },
     "120363407006779436@g.us": {
+      "active": false,
+      "expired": 0,
+      "type": ""
+    },
+    "120363402609054503@g.us": {
       "active": false,
       "expired": 0,
       "type": ""
