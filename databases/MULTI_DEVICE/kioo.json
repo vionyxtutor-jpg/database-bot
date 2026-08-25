@@ -826,7 +826,7 @@
       "registered": true,
       "registeredAt": 1787654222028,
       "level": 0,
-      "exp": 15,
+      "exp": 20,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -1034,10 +1034,10 @@
       "mute": false,
       "stats": {
         "daily": {
-          "29906209603787@lid": 3
+          "29906209603787@lid": 5
         },
         "weekly": {
-          "29906209603787@lid": 3
+          "29906209603787@lid": 5
         }
       },
       "customData": {},
