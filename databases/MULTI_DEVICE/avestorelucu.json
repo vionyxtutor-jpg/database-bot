@@ -3947,9 +3947,9 @@
       "name": "diraya",
       "registered": true,
       "registeredAt": 1787576420121,
-      "level": 2,
-      "exp": 1672,
-      "money": 30,
+      "level": 3,
+      "exp": 917,
+      "money": 64,
       "lastClaim": 0,
       "lastDaily": 0,
       "lastWeekly": 0,
@@ -6360,7 +6360,7 @@
         "daily": {
           "6285892116592@s.whatsapp.net": 251,
           "639050937809@s.whatsapp.net": 78,
-          "6288976304944@s.whatsapp.net": 154,
+          "6288976304944@s.whatsapp.net": 176,
           "6282245078619@s.whatsapp.net": 139,
           "6285878028359@s.whatsapp.net": 1,
           "6285137230464@s.whatsapp.net": 19
@@ -6368,7 +6368,7 @@
         "weekly": {
           "6285892116592@s.whatsapp.net": 251,
           "639050937809@s.whatsapp.net": 78,
-          "6288976304944@s.whatsapp.net": 154,
+          "6288976304944@s.whatsapp.net": 176,
           "6282245078619@s.whatsapp.net": 139,
           "6285878028359@s.whatsapp.net": 1,
           "6285137230464@s.whatsapp.net": 19
@@ -6596,6 +6596,27 @@
     },
     "120363410120464539@g.us": {
       "jid": "120363410120464539@g.us",
+      "name": "",
+      "welcome": false,
+      "goodbye": false,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null,
+      "antilink": false,
+      "antilinkAction": "kick",
+      "antibot": false,
+      "antidelete": false,
+      "antivirtex": false,
+      "antitoxic": false,
+      "antispam": false,
+      "mute": false,
+      "customData": {}
+    },
+    "120363421278776805@g.us": {
+      "jid": "120363421278776805@g.us",
       "name": "",
       "welcome": false,
       "goodbye": false,
