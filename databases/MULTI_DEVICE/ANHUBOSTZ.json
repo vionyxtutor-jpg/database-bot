@@ -330,11 +330,11 @@
     },
     "6282154019632@s.whatsapp.net": {
       "jid": "6282154019632@s.whatsapp.net",
-      "name": "",
-      "registered": false,
-      "registeredAt": 0,
+      "name": "hans",
+      "registered": true,
+      "registeredAt": 1787664891490,
       "level": 0,
-      "exp": 10,
+      "exp": 20,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -837,12 +837,12 @@
       "stats": {
         "daily": {
           "6282267600994@s.whatsapp.net": 3,
-          "6282154019632@s.whatsapp.net": 3,
+          "6282154019632@s.whatsapp.net": 5,
           "6282361031660@s.whatsapp.net": 2
         },
         "weekly": {
           "6282267600994@s.whatsapp.net": 3,
-          "6282154019632@s.whatsapp.net": 3,
+          "6282154019632@s.whatsapp.net": 5,
           "6282361031660@s.whatsapp.net": 2
         }
       },
