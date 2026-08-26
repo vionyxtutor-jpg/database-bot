@@ -20188,12 +20188,12 @@
         "daily": {
           "6283171205756@s.whatsapp.net": 47,
           "6288272149762@s.whatsapp.net": 5,
-          "6288706984319@s.whatsapp.net": 3
+          "6288706984319@s.whatsapp.net": 5
         },
         "weekly": {
           "6283171205756@s.whatsapp.net": 47,
           "6288272149762@s.whatsapp.net": 5,
-          "6288706984319@s.whatsapp.net": 3
+          "6288706984319@s.whatsapp.net": 5
         }
       },
       "customData": {},
@@ -21043,6 +21043,27 @@
     },
     "120363425914882705@g.us": {
       "jid": "120363425914882705@g.us",
+      "name": "",
+      "welcome": false,
+      "goodbye": false,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null,
+      "antilink": false,
+      "antilinkAction": "kick",
+      "antibot": false,
+      "antidelete": false,
+      "antivirtex": false,
+      "antitoxic": false,
+      "antispam": false,
+      "mute": false,
+      "customData": {}
+    },
+    "120363428192441881@g.us": {
+      "jid": "120363428192441881@g.us",
       "name": "",
       "welcome": false,
       "goodbye": false,
