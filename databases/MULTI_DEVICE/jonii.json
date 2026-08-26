@@ -20053,7 +20053,7 @@
           "6285178293126@s.whatsapp.net": 1,
           "6282138360013@s.whatsapp.net": 1,
           "6288286272983@s.whatsapp.net": 1,
-          "6285177160873@s.whatsapp.net": 17,
+          "6285177160873@s.whatsapp.net": 19,
           "6285782385682@s.whatsapp.net": 2,
           "6283173816449@s.whatsapp.net": 2,
           "628211081628@s.whatsapp.net": 3,
@@ -20091,7 +20091,7 @@
           "6285178293126@s.whatsapp.net": 1,
           "6282138360013@s.whatsapp.net": 1,
           "6288286272983@s.whatsapp.net": 1,
-          "6285177160873@s.whatsapp.net": 17,
+          "6285177160873@s.whatsapp.net": 19,
           "6285782385682@s.whatsapp.net": 2,
           "6283173816449@s.whatsapp.net": 2,
           "628211081628@s.whatsapp.net": 3,
@@ -20817,7 +20817,14 @@
           "6285696740930@s.whatsapp.net": 10
         }
       },
-      "afk": {}
+      "afk": {},
+      "goodbye": false,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null
     },
     "120363428270284134@g.us": {
       "jid": "120363428270284134@g.us",
