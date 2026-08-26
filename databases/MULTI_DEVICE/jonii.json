@@ -4938,7 +4938,7 @@
         "daily": {
           "6289654213543@s.whatsapp.net": 1,
           "6283167716682@s.whatsapp.net": 1,
-          "6285788214763@s.whatsapp.net": 15,
+          "6285788214763@s.whatsapp.net": 16,
           "6285793710630@s.whatsapp.net": 1,
           "6287713174937@s.whatsapp.net": 4,
           "6282181967832@s.whatsapp.net": 1,
@@ -4951,7 +4951,7 @@
         "weekly": {
           "6289654213543@s.whatsapp.net": 1,
           "6283167716682@s.whatsapp.net": 1,
-          "6285788214763@s.whatsapp.net": 15,
+          "6285788214763@s.whatsapp.net": 16,
           "6285793710630@s.whatsapp.net": 1,
           "6287713174937@s.whatsapp.net": 4,
           "6282181967832@s.whatsapp.net": 1,
@@ -5249,6 +5249,27 @@
       },
       "customData": {},
       "afk": {}
+    },
+    "120363411857710928@g.us": {
+      "jid": "120363411857710928@g.us",
+      "name": "",
+      "welcome": false,
+      "goodbye": false,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null,
+      "antilink": false,
+      "antilinkAction": "kick",
+      "antibot": false,
+      "antidelete": false,
+      "antivirtex": false,
+      "antitoxic": false,
+      "antispam": false,
+      "mute": false,
+      "customData": {}
     }
   },
   "antilink": {
