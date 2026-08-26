@@ -6,7 +6,7 @@
       "registered": true,
       "registeredAt": 1785121536047,
       "level": 14,
-      "exp": 5376,
+      "exp": 5386,
       "money": 639804,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -2831,7 +2831,7 @@
       "registered": true,
       "registeredAt": 1786888053741,
       "level": 16,
-      "exp": 14156,
+      "exp": 14161,
       "money": 1084709,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -20623,15 +20623,15 @@
     "120363410025330293@g.us": {
       "stats": {
         "daily": {
-          "6283869455559@s.whatsapp.net": 329,
+          "6283869455559@s.whatsapp.net": 335,
           "6283193088718@s.whatsapp.net": 13,
-          "6281931260555@s.whatsapp.net": 202,
+          "6281931260555@s.whatsapp.net": 205,
           "60145490571@s.whatsapp.net": 1
         },
         "weekly": {
-          "6283869455559@s.whatsapp.net": 329,
+          "6283869455559@s.whatsapp.net": 335,
           "6283193088718@s.whatsapp.net": 13,
-          "6281931260555@s.whatsapp.net": 202,
+          "6281931260555@s.whatsapp.net": 205,
           "60145490571@s.whatsapp.net": 1
         }
       },
@@ -21089,6 +21089,27 @@
     },
     "120363425308188967@g.us": {
       "jid": "120363425308188967@g.us",
+      "name": "",
+      "welcome": false,
+      "goodbye": false,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null,
+      "antilink": false,
+      "antilinkAction": "kick",
+      "antibot": false,
+      "antidelete": false,
+      "antivirtex": false,
+      "antitoxic": false,
+      "antispam": false,
+      "mute": false,
+      "customData": {}
+    },
+    "120363429793779763@g.us": {
+      "jid": "120363429793779763@g.us",
       "name": "",
       "welcome": false,
       "goodbye": false,
