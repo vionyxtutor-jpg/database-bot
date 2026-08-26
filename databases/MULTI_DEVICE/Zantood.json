@@ -20083,6 +20083,36 @@
       "antispam": false,
       "mute": false,
       "customData": {}
+    },
+    "120363432644531682@g.us": {
+      "jid": "120363432644531682@g.us",
+      "welcome": false,
+      "leave": false,
+      "antilink": false,
+      "antilinkAction": "kick",
+      "antibot": false,
+      "antidelete": false,
+      "antivirtex": false,
+      "antitoxic": false,
+      "antispam": false,
+      "mute": false,
+      "stats": {
+        "daily": {
+          "6281931260555@s.whatsapp.net": 2
+        },
+        "weekly": {
+          "6281931260555@s.whatsapp.net": 2
+        }
+      },
+      "customData": {},
+      "afk": {},
+      "goodbye": false,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null
     }
   },
   "antilink": {
@@ -20165,6 +20195,16 @@
       "tg": false,
       "tt": false,
       "tw": false
+    },
+    "120363432644531682@g.us": {
+      "all": false,
+      "gc": false,
+      "ch": false,
+      "fb": false,
+      "ig": false,
+      "tg": false,
+      "tt": false,
+      "tw": false
     }
   },
   "sewa": {
@@ -20204,6 +20244,11 @@
       "type": ""
     },
     "120363429109759055@g.us": {
+      "active": false,
+      "expired": 0,
+      "type": ""
+    },
+    "120363432644531682@g.us": {
       "active": false,
       "expired": 0,
       "type": ""
