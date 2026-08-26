@@ -6572,7 +6572,7 @@
       "registered": false,
       "registeredAt": 0,
       "level": 0,
-      "exp": 10,
+      "exp": 20,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -7392,7 +7392,7 @@
       "registered": false,
       "registeredAt": 0,
       "level": 0,
-      "exp": 35,
+      "exp": 40,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -8654,7 +8654,7 @@
     "120363413507742017@g.us": {
       "stats": {
         "daily": {
-          "6285892116592@s.whatsapp.net": 278,
+          "6285892116592@s.whatsapp.net": 279,
           "639050937809@s.whatsapp.net": 78,
           "6288976304944@s.whatsapp.net": 177,
           "6282245078619@s.whatsapp.net": 161,
@@ -8662,7 +8662,7 @@
           "6285137230464@s.whatsapp.net": 19
         },
         "weekly": {
-          "6285892116592@s.whatsapp.net": 278,
+          "6285892116592@s.whatsapp.net": 279,
           "639050937809@s.whatsapp.net": 78,
           "6288976304944@s.whatsapp.net": 177,
           "6282245078619@s.whatsapp.net": 161,
@@ -8967,22 +8967,22 @@
       "mute": false,
       "stats": {
         "daily": {
-          "6285151653097@s.whatsapp.net": 19,
+          "6285151653097@s.whatsapp.net": 22,
           "6281288466538@s.whatsapp.net": 4,
           "6283171560264@s.whatsapp.net": 3,
           "6285381299035@s.whatsapp.net": 4,
           "628216984591@s.whatsapp.net": 1,
-          "6283826114417@s.whatsapp.net": 43,
+          "6283826114417@s.whatsapp.net": 44,
           "6287841065326@s.whatsapp.net": 1,
           "6285246424159@s.whatsapp.net": 2
         },
         "weekly": {
-          "6285151653097@s.whatsapp.net": 19,
+          "6285151653097@s.whatsapp.net": 22,
           "6281288466538@s.whatsapp.net": 4,
           "6283171560264@s.whatsapp.net": 3,
           "6285381299035@s.whatsapp.net": 4,
           "628216984591@s.whatsapp.net": 1,
-          "6283826114417@s.whatsapp.net": 43,
+          "6283826114417@s.whatsapp.net": 44,
           "6287841065326@s.whatsapp.net": 1,
           "6285246424159@s.whatsapp.net": 2
         }
