@@ -1154,7 +1154,7 @@
       "registered": true,
       "registeredAt": 1787760570761,
       "level": 0,
-      "exp": 145,
+      "exp": 155,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -4050,12 +4050,12 @@
       "mute": false,
       "stats": {
         "daily": {
-          "6283171205756@s.whatsapp.net": 1,
+          "6283171205756@s.whatsapp.net": 21,
           "6288272149762@s.whatsapp.net": 5,
           "6288706984319@s.whatsapp.net": 3
         },
         "weekly": {
-          "6283171205756@s.whatsapp.net": 1,
+          "6283171205756@s.whatsapp.net": 21,
           "6288272149762@s.whatsapp.net": 5,
           "6288706984319@s.whatsapp.net": 3
         }
@@ -4077,17 +4077,18 @@
       "mute": false,
       "stats": {
         "daily": {
-          "6283187382568@s.whatsapp.net": 40,
+          "6283187382568@s.whatsapp.net": 42,
           "6288272149762@s.whatsapp.net": 17
         },
         "weekly": {
-          "6283187382568@s.whatsapp.net": 40,
+          "6283187382568@s.whatsapp.net": 42,
           "6288272149762@s.whatsapp.net": 17
         }
       },
       "customData": {},
       "afk": {},
-      "welcomeText": "selamat datang di 𝐒𝐀𝐕𝐀𝐆𝐄 𝟐𝟗𝟔"
+      "welcomeText": "selamat datang di 𝐒𝐀𝐕𝐀𝐆𝐄 𝟐𝟗𝟔",
+      "goodbye": true
     },
     "120363428260372212@g.us": {
       "jid": "120363428260372212@g.us",
