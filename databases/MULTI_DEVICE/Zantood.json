@@ -23210,10 +23210,12 @@
       "mute": false,
       "stats": {
         "daily": {
-          "6283869455559@s.whatsapp.net": 10
+          "6283869455559@s.whatsapp.net": 10,
+          "6281931260555@s.whatsapp.net": 1
         },
         "weekly": {
-          "6283869455559@s.whatsapp.net": 10
+          "6283869455559@s.whatsapp.net": 10,
+          "6281931260555@s.whatsapp.net": 1
         }
       },
       "customData": {},
