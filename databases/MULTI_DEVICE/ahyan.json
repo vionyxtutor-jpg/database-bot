@@ -10338,7 +10338,7 @@
       "registered": true,
       "registeredAt": 1784859829277,
       "level": 15,
-      "exp": 18208,
+      "exp": 18213,
       "money": 87,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -66356,7 +66356,7 @@
       "registered": false,
       "registeredAt": 0,
       "level": 0,
-      "exp": 45,
+      "exp": 55,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -68410,7 +68410,7 @@
         "daily": {
           "6282135318890@s.whatsapp.net": 132,
           "6285238866022@s.whatsapp.net": 49,
-          "628211424243@s.whatsapp.net": 495,
+          "628211424243@s.whatsapp.net": 497,
           "6288226227298@s.whatsapp.net": 57,
           "6283849518277@s.whatsapp.net": 110,
           "15878846582@s.whatsapp.net": 116,
@@ -68491,13 +68491,13 @@
           "6288213535523@s.whatsapp.net": 1,
           "6283187382568@s.whatsapp.net": 5,
           "6288212084269@s.whatsapp.net": 2,
-          "6287884142674@s.whatsapp.net": 12,
+          "6287884142674@s.whatsapp.net": 14,
           "6283137625088@s.whatsapp.net": 7
         },
         "weekly": {
           "6282135318890@s.whatsapp.net": 132,
           "6285238866022@s.whatsapp.net": 49,
-          "628211424243@s.whatsapp.net": 495,
+          "628211424243@s.whatsapp.net": 497,
           "6288226227298@s.whatsapp.net": 57,
           "6283849518277@s.whatsapp.net": 110,
           "15878846582@s.whatsapp.net": 116,
@@ -68578,7 +68578,7 @@
           "6288213535523@s.whatsapp.net": 1,
           "6283187382568@s.whatsapp.net": 5,
           "6288212084269@s.whatsapp.net": 2,
-          "6287884142674@s.whatsapp.net": 12,
+          "6287884142674@s.whatsapp.net": 14,
           "6283137625088@s.whatsapp.net": 7
         }
       },
