@@ -6,7 +6,7 @@
       "registered": true,
       "registeredAt": 1785121536047,
       "level": 14,
-      "exp": 54398,
+      "exp": 54403,
       "money": 704328,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -24946,7 +24946,7 @@
     "120363410523893995@g.us": {
       "stats": {
         "daily": {
-          "6283869455559@s.whatsapp.net": 726,
+          "6283869455559@s.whatsapp.net": 727,
           "6281227937741@s.whatsapp.net": 1,
           "60145490571@s.whatsapp.net": 467,
           "62895630561428@s.whatsapp.net": 238,
@@ -25017,7 +25017,7 @@
           "6281330268502@s.whatsapp.net": 27
         },
         "weekly": {
-          "6283869455559@s.whatsapp.net": 726,
+          "6283869455559@s.whatsapp.net": 727,
           "6281227937741@s.whatsapp.net": 1,
           "60145490571@s.whatsapp.net": 467,
           "62895630561428@s.whatsapp.net": 238,
@@ -26364,6 +26364,29 @@
       "antispam": false,
       "mute": false,
       "customData": {}
+    },
+    "120363408401467387@g.us": {
+      "jid": "120363408401467387@g.us",
+      "welcome": false,
+      "leave": false,
+      "antilink": false,
+      "antilinkAction": "kick",
+      "antibot": false,
+      "antidelete": false,
+      "antivirtex": false,
+      "antitoxic": false,
+      "antispam": false,
+      "mute": false,
+      "stats": {
+        "daily": {
+          "6283869455559@s.whatsapp.net": 2
+        },
+        "weekly": {
+          "6283869455559@s.whatsapp.net": 2
+        }
+      },
+      "customData": {},
+      "afk": {}
     }
   },
   "antilink": {
@@ -26486,6 +26509,16 @@
       "tg": false,
       "tt": false,
       "tw": false
+    },
+    "120363408401467387@g.us": {
+      "all": false,
+      "gc": false,
+      "ch": false,
+      "fb": false,
+      "ig": false,
+      "tg": false,
+      "tt": false,
+      "tw": false
     }
   },
   "sewa": {
@@ -26545,6 +26578,11 @@
       "type": ""
     },
     "120363412470145226@g.us": {
+      "active": false,
+      "expired": 0,
+      "type": ""
+    },
+    "120363408401467387@g.us": {
       "active": false,
       "expired": 0,
       "type": ""
