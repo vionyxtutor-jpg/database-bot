@@ -13402,7 +13402,7 @@
           "6283171560264@s.whatsapp.net": 13,
           "6285381299035@s.whatsapp.net": 8,
           "628216984591@s.whatsapp.net": 1,
-          "6283826114417@s.whatsapp.net": 184,
+          "6283826114417@s.whatsapp.net": 190,
           "6287841065326@s.whatsapp.net": 3,
           "6285246424159@s.whatsapp.net": 4,
           "6281234898755@s.whatsapp.net": 9,
@@ -13414,7 +13414,7 @@
           "6281913415171@s.whatsapp.net": 24,
           "62882008680487@s.whatsapp.net": 6,
           "6285345544005@s.whatsapp.net": 6,
-          "6283823332097@s.whatsapp.net": 2
+          "6283823332097@s.whatsapp.net": 7
         },
         "weekly": {
           "6285151653097@s.whatsapp.net": 135,
@@ -13422,7 +13422,7 @@
           "6283171560264@s.whatsapp.net": 13,
           "6285381299035@s.whatsapp.net": 8,
           "628216984591@s.whatsapp.net": 1,
-          "6283826114417@s.whatsapp.net": 184,
+          "6283826114417@s.whatsapp.net": 190,
           "6287841065326@s.whatsapp.net": 3,
           "6285246424159@s.whatsapp.net": 4,
           "6281234898755@s.whatsapp.net": 9,
@@ -13434,7 +13434,7 @@
           "6281913415171@s.whatsapp.net": 24,
           "62882008680487@s.whatsapp.net": 6,
           "6285345544005@s.whatsapp.net": 6,
-          "6283823332097@s.whatsapp.net": 2
+          "6283823332097@s.whatsapp.net": 7
         }
       },
       "customData": {},
@@ -13618,6 +13618,27 @@
     },
     "120363411034378175@g.us": {
       "jid": "120363411034378175@g.us",
+      "name": "",
+      "welcome": false,
+      "goodbye": false,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null,
+      "antilink": false,
+      "antilinkAction": "kick",
+      "antibot": false,
+      "antidelete": false,
+      "antivirtex": false,
+      "antitoxic": false,
+      "antispam": false,
+      "mute": false,
+      "customData": {}
+    },
+    "120363430473678042@g.us": {
+      "jid": "120363430473678042@g.us",
       "name": "",
       "welcome": false,
       "goodbye": false,
