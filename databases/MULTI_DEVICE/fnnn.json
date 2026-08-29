@@ -24442,7 +24442,7 @@
       "registered": false,
       "registeredAt": 0,
       "level": 0,
-      "exp": 5,
+      "exp": 10,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -25698,9 +25698,9 @@
       "mute": false,
       "stats": {
         "daily": {
-          "6285750843391@s.whatsapp.net": 100,
+          "6285750843391@s.whatsapp.net": 113,
           "62895323060893@s.whatsapp.net": 50,
-          "6283175842462@s.whatsapp.net": 129,
+          "6283175842462@s.whatsapp.net": 135,
           "6283153548639@s.whatsapp.net": 36,
           "6283191694649@s.whatsapp.net": 6,
           "6285878475969@s.whatsapp.net": 4,
@@ -25710,12 +25710,12 @@
           "6285810178520@s.whatsapp.net": 17,
           "6282197076174@s.whatsapp.net": 12,
           "6289526597488@s.whatsapp.net": 29,
-          "6282159173142@s.whatsapp.net": 7
+          "6282159173142@s.whatsapp.net": 12
         },
         "weekly": {
-          "6285750843391@s.whatsapp.net": 100,
+          "6285750843391@s.whatsapp.net": 113,
           "62895323060893@s.whatsapp.net": 50,
-          "6283175842462@s.whatsapp.net": 129,
+          "6283175842462@s.whatsapp.net": 135,
           "6283153548639@s.whatsapp.net": 36,
           "6283191694649@s.whatsapp.net": 6,
           "6285878475969@s.whatsapp.net": 4,
@@ -25725,7 +25725,7 @@
           "6285810178520@s.whatsapp.net": 17,
           "6282197076174@s.whatsapp.net": 12,
           "6289526597488@s.whatsapp.net": 29,
-          "6282159173142@s.whatsapp.net": 7
+          "6282159173142@s.whatsapp.net": 12
         }
       },
       "customData": {},
@@ -26057,6 +26057,27 @@
     },
     "120363413254651005@g.us": {
       "jid": "120363413254651005@g.us",
+      "name": "",
+      "welcome": false,
+      "goodbye": false,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null,
+      "antilink": false,
+      "antilinkAction": "kick",
+      "antibot": false,
+      "antidelete": false,
+      "antivirtex": false,
+      "antitoxic": false,
+      "antispam": false,
+      "mute": false,
+      "customData": {}
+    },
+    "120363427646946047@g.us": {
+      "jid": "120363427646946047@g.us",
       "name": "",
       "welcome": false,
       "goodbye": false,
