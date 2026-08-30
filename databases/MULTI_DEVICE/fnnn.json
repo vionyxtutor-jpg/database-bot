@@ -3282,11 +3282,11 @@
     },
     "6283175842462@s.whatsapp.net": {
       "jid": "6283175842462@s.whatsapp.net",
-      "name": "",
-      "registered": false,
-      "registeredAt": 0,
+      "name": "dapa senggel",
+      "registered": true,
+      "registeredAt": 1788055864354,
       "level": 0,
-      "exp": 135,
+      "exp": 145,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -26846,9 +26846,9 @@
       "mute": false,
       "stats": {
         "daily": {
-          "6285750843391@s.whatsapp.net": 123,
+          "6285750843391@s.whatsapp.net": 124,
           "62895323060893@s.whatsapp.net": 65,
-          "6283175842462@s.whatsapp.net": 175,
+          "6283175842462@s.whatsapp.net": 177,
           "6283153548639@s.whatsapp.net": 36,
           "6283191694649@s.whatsapp.net": 6,
           "6285878475969@s.whatsapp.net": 4,
@@ -26860,12 +26860,12 @@
           "6289526597488@s.whatsapp.net": 29,
           "6282159173142@s.whatsapp.net": 13,
           "6289674028443@s.whatsapp.net": 19,
-          "6285119704435@s.whatsapp.net": 2
+          "6285119704435@s.whatsapp.net": 3
         },
         "weekly": {
-          "6285750843391@s.whatsapp.net": 123,
+          "6285750843391@s.whatsapp.net": 124,
           "62895323060893@s.whatsapp.net": 65,
-          "6283175842462@s.whatsapp.net": 175,
+          "6283175842462@s.whatsapp.net": 177,
           "6283153548639@s.whatsapp.net": 36,
           "6283191694649@s.whatsapp.net": 6,
           "6285878475969@s.whatsapp.net": 4,
@@ -26877,7 +26877,7 @@
           "6289526597488@s.whatsapp.net": 29,
           "6282159173142@s.whatsapp.net": 13,
           "6289674028443@s.whatsapp.net": 19,
-          "6285119704435@s.whatsapp.net": 2
+          "6285119704435@s.whatsapp.net": 3
         }
       },
       "customData": {},
