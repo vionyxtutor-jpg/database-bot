@@ -70452,11 +70452,11 @@
     },
     "6285893101896@s.whatsapp.net": {
       "jid": "6285893101896@s.whatsapp.net",
-      "name": "",
-      "registered": false,
-      "registeredAt": 0,
+      "name": "nama",
+      "registered": true,
+      "registeredAt": 1788055356901,
       "level": 0,
-      "exp": 5,
+      "exp": 35,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -70612,7 +70612,8 @@
       "makananphonix": 0,
       "makanangriffin": 0,
       "makanankyubi": 0,
-      "makanancentaur": 0
+      "makanancentaur": 0,
+      "unregConfirmationExpiresAt": 1788055687376
     },
     "152553681633462@s.whatsapp.net": {
       "jid": "152553681633462@s.whatsapp.net",
@@ -71449,7 +71450,7 @@
           "6283137625088@s.whatsapp.net": 7,
           "6282186923184@s.whatsapp.net": 14,
           "6282323898975@s.whatsapp.net": 1,
-          "6285893101896@s.whatsapp.net": 4,
+          "6285893101896@s.whatsapp.net": 12,
           "6285764629428@s.whatsapp.net": 1,
           "6283194338523@s.whatsapp.net": 2
         },
@@ -71541,7 +71542,7 @@
           "6283137625088@s.whatsapp.net": 7,
           "6282186923184@s.whatsapp.net": 14,
           "6282323898975@s.whatsapp.net": 1,
-          "6285893101896@s.whatsapp.net": 4,
+          "6285893101896@s.whatsapp.net": 12,
           "6285764629428@s.whatsapp.net": 1,
           "6283194338523@s.whatsapp.net": 2
         }
