@@ -9058,11 +9058,11 @@
     },
     "96980898476035@s.whatsapp.net": {
       "jid": "96980898476035@s.whatsapp.net",
-      "name": "",
-      "registered": false,
-      "registeredAt": 0,
+      "name": "tikus",
+      "registered": true,
+      "registeredAt": 1788143502567,
       "level": 0,
-      "exp": 15,
+      "exp": 40,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -30799,12 +30799,14 @@
         "daily": {
           "6283869455559@s.whatsapp.net": 17,
           "6281931260555@s.whatsapp.net": 6,
-          "60145490571@s.whatsapp.net": 7
+          "60145490571@s.whatsapp.net": 7,
+          "96980898476035@lid": 8
         },
         "weekly": {
           "6283869455559@s.whatsapp.net": 17,
           "6281931260555@s.whatsapp.net": 6,
-          "60145490571@s.whatsapp.net": 7
+          "60145490571@s.whatsapp.net": 7,
+          "96980898476035@lid": 8
         }
       },
       "customData": {},
