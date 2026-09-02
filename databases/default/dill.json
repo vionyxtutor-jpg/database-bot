@@ -6074,7 +6074,7 @@
       "registered": false,
       "registeredAt": 0,
       "level": 0,
-      "exp": 5,
+      "exp": 15,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -6665,7 +6665,7 @@
           "62895401085747@s.whatsapp.net": 39,
           "628118134868@s.whatsapp.net": 2,
           "6285750603515@s.whatsapp.net": 1,
-          "6285648670838@s.whatsapp.net": 4
+          "6285648670838@s.whatsapp.net": 6
         },
         "weekly": {
           "6289501976304@s.whatsapp.net": 213,
@@ -6680,7 +6680,7 @@
           "62895401085747@s.whatsapp.net": 39,
           "628118134868@s.whatsapp.net": 2,
           "6285750603515@s.whatsapp.net": 1,
-          "6285648670838@s.whatsapp.net": 4
+          "6285648670838@s.whatsapp.net": 6
         }
       },
       "customData": {},
