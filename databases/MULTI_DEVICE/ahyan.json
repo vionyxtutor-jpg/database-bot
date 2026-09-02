@@ -75213,8 +75213,8 @@
       "registered": true,
       "registeredAt": 1788343056116,
       "level": 15,
-      "exp": 85042,
-      "money": 5501,
+      "exp": 85062,
+      "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
       "lastWeekly": 0,
@@ -75249,7 +75249,7 @@
       "membunuh": 0,
       "lastopen": 0,
       "lastTomoney": 0,
-      "judilast": 0,
+      "judilast": 1788364206628,
       "rpgdaily": 1788343073163,
       "rpghourly": 1788364066263,
       "rpgweekly": 1788343094601,
@@ -76743,7 +76743,7 @@
           "60198959269@s.whatsapp.net": 2,
           "6282146169522@s.whatsapp.net": 1,
           "6283188402445@s.whatsapp.net": 73,
-          "6283157764143@s.whatsapp.net": 20,
+          "6283157764143@s.whatsapp.net": 24,
           "6283184711831@s.whatsapp.net": 10,
           "6285124730278@s.whatsapp.net": 102
         },
@@ -76842,7 +76842,7 @@
           "60198959269@s.whatsapp.net": 2,
           "6282146169522@s.whatsapp.net": 1,
           "6283188402445@s.whatsapp.net": 73,
-          "6283157764143@s.whatsapp.net": 20,
+          "6283157764143@s.whatsapp.net": 24,
           "6283184711831@s.whatsapp.net": 10,
           "6285124730278@s.whatsapp.net": 102
         }
