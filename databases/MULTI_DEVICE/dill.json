@@ -334,7 +334,7 @@
       "registered": true,
       "registeredAt": 1788335102677,
       "level": 0,
-      "exp": 507,
+      "exp": 517,
       "money": 5,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -3529,10 +3529,10 @@
       "mute": false,
       "stats": {
         "daily": {
-          "6289501976304@s.whatsapp.net": 97,
-          "6283178863514@s.whatsapp.net": 157,
+          "6289501976304@s.whatsapp.net": 99,
+          "6283178863514@s.whatsapp.net": 163,
           "6285743438682@s.whatsapp.net": 20,
-          "6287797541885@s.whatsapp.net": 58,
+          "6287797541885@s.whatsapp.net": 62,
           "6283169825469@s.whatsapp.net": 20,
           "6285285632624@s.whatsapp.net": 2,
           "6287726442587@s.whatsapp.net": 2,
@@ -3540,10 +3540,10 @@
           "6289528404603@s.whatsapp.net": 2
         },
         "weekly": {
-          "6289501976304@s.whatsapp.net": 97,
-          "6283178863514@s.whatsapp.net": 157,
+          "6289501976304@s.whatsapp.net": 99,
+          "6283178863514@s.whatsapp.net": 163,
           "6285743438682@s.whatsapp.net": 20,
-          "6287797541885@s.whatsapp.net": 58,
+          "6287797541885@s.whatsapp.net": 62,
           "6283169825469@s.whatsapp.net": 20,
           "6285285632624@s.whatsapp.net": 2,
           "6287726442587@s.whatsapp.net": 2,
@@ -3559,7 +3559,10 @@
       "welcomeImg": null,
       "byeImg": null,
       "welcomeBgUrl": null,
-      "goodbyeBgUrl": null
+      "goodbyeBgUrl": null,
+      "autoclose": true,
+      "closeTime": "22:00",
+      "openTime": "06:00"
     }
   },
   "antilink": {
