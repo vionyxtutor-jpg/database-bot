@@ -75893,8 +75893,8 @@
       "registered": true,
       "registeredAt": 1788343818070,
       "level": 13,
-      "exp": 20780,
-      "money": 810256,
+      "exp": 20785,
+      "money": 1,
       "lastClaim": 0,
       "lastDaily": 0,
       "lastWeekly": 0,
@@ -75912,7 +75912,7 @@
       "premium": false,
       "premiumExpired": 0,
       "premiumType": "",
-      "bank": 0,
+      "bank": 802233,
       "health": 5,
       "stamina": 188,
       "role": "Kesatria Tangguh ⚔️",
@@ -76581,7 +76581,7 @@
           "6283188402445@s.whatsapp.net": 73,
           "6283157764143@s.whatsapp.net": 15,
           "6283184711831@s.whatsapp.net": 10,
-          "6285124730278@s.whatsapp.net": 98
+          "6285124730278@s.whatsapp.net": 100
         },
         "weekly": {
           "6282135318890@s.whatsapp.net": 137,
@@ -76680,7 +76680,7 @@
           "6283188402445@s.whatsapp.net": 73,
           "6283157764143@s.whatsapp.net": 15,
           "6283184711831@s.whatsapp.net": 10,
-          "6285124730278@s.whatsapp.net": 98
+          "6285124730278@s.whatsapp.net": 100
         }
       },
       "customData": {},
