@@ -15131,8 +15131,8 @@
       "registered": true,
       "registeredAt": 1785578665374,
       "level": 22,
-      "exp": 4200,
-      "money": 692860,
+      "exp": 4205,
+      "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
       "lastWeekly": 0,
@@ -15150,7 +15150,7 @@
       "premium": false,
       "premiumExpired": 0,
       "premiumType": "",
-      "bank": 1606905,
+      "bank": 2292905,
       "health": 18,
       "stamina": 98,
       "role": "Kesatria Tangguh ⚔️",
@@ -76544,7 +76544,7 @@
           "6285880821408@s.whatsapp.net": 19,
           "6281237911864@s.whatsapp.net": 5,
           "6281994217714@s.whatsapp.net": 109,
-          "6289514393943@s.whatsapp.net": 616,
+          "6289514393943@s.whatsapp.net": 617,
           "90452548165680@lid": 1,
           "6285805051569@s.whatsapp.net": 2,
           "6285123770812@s.whatsapp.net": 3,
@@ -76581,7 +76581,7 @@
           "6283188402445@s.whatsapp.net": 73,
           "6283157764143@s.whatsapp.net": 18,
           "6283184711831@s.whatsapp.net": 10,
-          "6285124730278@s.whatsapp.net": 100
+          "6285124730278@s.whatsapp.net": 102
         },
         "weekly": {
           "6282135318890@s.whatsapp.net": 137,
@@ -76643,7 +76643,7 @@
           "6285880821408@s.whatsapp.net": 19,
           "6281237911864@s.whatsapp.net": 5,
           "6281994217714@s.whatsapp.net": 109,
-          "6289514393943@s.whatsapp.net": 616,
+          "6289514393943@s.whatsapp.net": 617,
           "90452548165680@lid": 1,
           "6285805051569@s.whatsapp.net": 2,
           "6285123770812@s.whatsapp.net": 3,
@@ -76680,7 +76680,7 @@
           "6283188402445@s.whatsapp.net": 73,
           "6283157764143@s.whatsapp.net": 18,
           "6283184711831@s.whatsapp.net": 10,
-          "6285124730278@s.whatsapp.net": 100
+          "6285124730278@s.whatsapp.net": 102
         }
       },
       "customData": {},
