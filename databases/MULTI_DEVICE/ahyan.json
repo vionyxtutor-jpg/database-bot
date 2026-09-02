@@ -74886,7 +74886,7 @@
       "registeredAt": 1788342304202,
       "level": 14,
       "exp": 75230,
-      "money": 655346,
+      "money": 2238023,
       "lastClaim": 0,
       "lastDaily": 0,
       "lastWeekly": 0,
@@ -75541,8 +75541,8 @@
       "registered": true,
       "registeredAt": 1788343410079,
       "level": 13,
-      "exp": 24579,
-      "money": 1758530,
+      "exp": 24584,
+      "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
       "lastWeekly": 0,
@@ -75705,8 +75705,8 @@
         "lockUntil": 0
       },
       "_tfDodgeTaxed": {
-        "count": 0,
-        "firstTime": 0,
+        "count": 1,
+        "firstTime": 1788343619516,
         "locked": false,
         "lockUntil": 0
       }
@@ -76240,7 +76240,7 @@
           "6282146169522@s.whatsapp.net": 1,
           "6283188402445@s.whatsapp.net": 36,
           "6283157764143@s.whatsapp.net": 10,
-          "6283184711831@s.whatsapp.net": 9
+          "6283184711831@s.whatsapp.net": 10
         },
         "weekly": {
           "6282135318890@s.whatsapp.net": 137,
@@ -76338,7 +76338,7 @@
           "6282146169522@s.whatsapp.net": 1,
           "6283188402445@s.whatsapp.net": 36,
           "6283157764143@s.whatsapp.net": 10,
-          "6283184711831@s.whatsapp.net": 9
+          "6283184711831@s.whatsapp.net": 10
         }
       },
       "customData": {},
