@@ -74885,8 +74885,8 @@
       "registered": true,
       "registeredAt": 1788342304202,
       "level": 14,
-      "exp": 75170,
-      "money": 700000,
+      "exp": 75190,
+      "money": 687700,
       "lastClaim": 0,
       "lastDaily": 0,
       "lastWeekly": 0,
@@ -74959,7 +74959,7 @@
       "gold": 3,
       "diamond": 0,
       "string": 0,
-      "wood": 0,
+      "wood": 300,
       "trash": 0,
       "herb": 0,
       "botol": 0,
@@ -75570,7 +75570,7 @@
           "6281545027870@s.whatsapp.net": 3,
           "60198959269@s.whatsapp.net": 2,
           "6282146169522@s.whatsapp.net": 1,
-          "6283188402445@s.whatsapp.net": 24
+          "6283188402445@s.whatsapp.net": 28
         },
         "weekly": {
           "6282135318890@s.whatsapp.net": 137,
@@ -75666,7 +75666,7 @@
           "6281545027870@s.whatsapp.net": 3,
           "60198959269@s.whatsapp.net": 2,
           "6282146169522@s.whatsapp.net": 1,
-          "6283188402445@s.whatsapp.net": 24
+          "6283188402445@s.whatsapp.net": 28
         }
       },
       "customData": {},
