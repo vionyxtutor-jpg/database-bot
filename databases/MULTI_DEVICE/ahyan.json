@@ -6,7 +6,7 @@
       "registered": true,
       "registeredAt": 1784380618671,
       "level": 2,
-      "exp": 1640,
+      "exp": 1650,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -78222,8 +78222,8 @@
       "mute": false,
       "stats": {
         "daily": {
-          "6282135318890@s.whatsapp.net": 1663,
-          "6285147519536@s.whatsapp.net": 2533,
+          "6282135318890@s.whatsapp.net": 1664,
+          "6285147519536@s.whatsapp.net": 2537,
           "6289676902300@s.whatsapp.net": 1978,
           "6285602531403@s.whatsapp.net": 434,
           "6285123770812@s.whatsapp.net": 713,
@@ -78238,11 +78238,11 @@
           "6282133025887@s.whatsapp.net": 795,
           "207765435842802@lid": 58,
           "222350926708785@lid": 5,
-          "6285123721601@s.whatsapp.net": 519
+          "6285123721601@s.whatsapp.net": 522
         },
         "weekly": {
-          "6282135318890@s.whatsapp.net": 1663,
-          "6285147519536@s.whatsapp.net": 2533,
+          "6282135318890@s.whatsapp.net": 1664,
+          "6285147519536@s.whatsapp.net": 2537,
           "6289676902300@s.whatsapp.net": 1978,
           "6285602531403@s.whatsapp.net": 434,
           "6285123770812@s.whatsapp.net": 713,
@@ -78257,7 +78257,7 @@
           "6282133025887@s.whatsapp.net": 795,
           "207765435842802@lid": 58,
           "222350926708785@lid": 5,
-          "6285123721601@s.whatsapp.net": 519
+          "6285123721601@s.whatsapp.net": 522
         }
       },
       "customData": {},
@@ -78476,12 +78476,12 @@
       "mute": false,
       "stats": {
         "daily": {
-          "6282135318890@s.whatsapp.net": 145,
+          "6282135318890@s.whatsapp.net": 150,
           "6285238866022@s.whatsapp.net": 49,
           "628211424243@s.whatsapp.net": 511,
           "6288226227298@s.whatsapp.net": 57,
           "6283849518277@s.whatsapp.net": 110,
-          "15878846582@s.whatsapp.net": 116,
+          "15878846582@s.whatsapp.net": 130,
           "62895601540606@s.whatsapp.net": 2,
           "6289676902300@s.whatsapp.net": 150,
           "6283857069467@s.whatsapp.net": 439,
@@ -78495,7 +78495,7 @@
           "6281373605027@s.whatsapp.net": 158,
           "6285373388406@s.whatsapp.net": 6,
           "6282256990138@s.whatsapp.net": 154,
-          "6285147519536@s.whatsapp.net": 94,
+          "6285147519536@s.whatsapp.net": 103,
           "6285825029770@s.whatsapp.net": 252,
           "6282254444783@s.whatsapp.net": 2,
           "6282188763630@s.whatsapp.net": 2065,
@@ -78576,16 +78576,16 @@
           "62881012429893@s.whatsapp.net": 14,
           "6285135457188@s.whatsapp.net": 6,
           "6281246781582@s.whatsapp.net": 7,
-          "6285257730320@s.whatsapp.net": 3,
+          "6285257730320@s.whatsapp.net": 6,
           "6283869125904@s.whatsapp.net": 3
         },
         "weekly": {
-          "6282135318890@s.whatsapp.net": 145,
+          "6282135318890@s.whatsapp.net": 150,
           "6285238866022@s.whatsapp.net": 49,
           "628211424243@s.whatsapp.net": 511,
           "6288226227298@s.whatsapp.net": 57,
           "6283849518277@s.whatsapp.net": 110,
-          "15878846582@s.whatsapp.net": 116,
+          "15878846582@s.whatsapp.net": 130,
           "62895601540606@s.whatsapp.net": 2,
           "6289676902300@s.whatsapp.net": 150,
           "6283857069467@s.whatsapp.net": 439,
@@ -78599,7 +78599,7 @@
           "6281373605027@s.whatsapp.net": 158,
           "6285373388406@s.whatsapp.net": 6,
           "6282256990138@s.whatsapp.net": 154,
-          "6285147519536@s.whatsapp.net": 94,
+          "6285147519536@s.whatsapp.net": 103,
           "6285825029770@s.whatsapp.net": 252,
           "6282254444783@s.whatsapp.net": 2,
           "6282188763630@s.whatsapp.net": 2065,
@@ -78680,7 +78680,7 @@
           "62881012429893@s.whatsapp.net": 14,
           "6285135457188@s.whatsapp.net": 6,
           "6281246781582@s.whatsapp.net": 7,
-          "6285257730320@s.whatsapp.net": 3,
+          "6285257730320@s.whatsapp.net": 6,
           "6283869125904@s.whatsapp.net": 3
         }
       },
