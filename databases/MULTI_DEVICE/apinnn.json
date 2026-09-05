@@ -16284,7 +16284,13 @@
       },
       "customData": {},
       "afk": {},
-      "goodbye": true
+      "goodbye": true,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null
     },
     "120363421383318677@g.us": {
       "jid": "120363421383318677@g.us",
@@ -16514,15 +16520,15 @@
       "stats": {
         "daily": {
           "6283139313585@s.whatsapp.net": 13,
-          "628139107971@s.whatsapp.net": 1,
+          "628139107971@s.whatsapp.net": 2,
           "6281563443732@s.whatsapp.net": 1,
-          "6285813060316@s.whatsapp.net": 1
+          "6285813060316@s.whatsapp.net": 2
         },
         "weekly": {
           "6283139313585@s.whatsapp.net": 13,
-          "628139107971@s.whatsapp.net": 1,
+          "628139107971@s.whatsapp.net": 2,
           "6281563443732@s.whatsapp.net": 1,
-          "6285813060316@s.whatsapp.net": 1
+          "6285813060316@s.whatsapp.net": 2
         }
       },
       "customData": {},
