@@ -21212,12 +21212,14 @@
         "daily": {
           "6281649180615@s.whatsapp.net": 62,
           "6283180729106@s.whatsapp.net": 1,
-          "62895401994084@s.whatsapp.net": 3
+          "62895401994084@s.whatsapp.net": 3,
+          "6285749063920@s.whatsapp.net": 1
         },
         "weekly": {
           "6281649180615@s.whatsapp.net": 62,
           "6283180729106@s.whatsapp.net": 1,
-          "62895401994084@s.whatsapp.net": 3
+          "62895401994084@s.whatsapp.net": 3,
+          "6285749063920@s.whatsapp.net": 1
         }
       },
       "customData": {},
@@ -21232,6 +21234,27 @@
     },
     "120363424237992329@g.us": {
       "jid": "120363424237992329@g.us",
+      "name": "",
+      "welcome": false,
+      "goodbye": false,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null,
+      "antilink": false,
+      "antilinkAction": "kick",
+      "antibot": false,
+      "antidelete": false,
+      "antivirtex": false,
+      "antitoxic": false,
+      "antispam": false,
+      "mute": false,
+      "customData": {}
+    },
+    "120363190210871287@g.us": {
+      "jid": "120363190210871287@g.us",
       "name": "",
       "welcome": false,
       "goodbye": false,
