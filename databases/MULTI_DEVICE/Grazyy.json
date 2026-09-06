@@ -615705,18 +615705,25 @@
           "6285789795615@s.whatsapp.net": 1,
           "62895428679330@s.whatsapp.net": 1,
           "6282371792598@s.whatsapp.net": 1,
-          "62882019673641@s.whatsapp.net": 1
+          "62882019673641@s.whatsapp.net": 2
         },
         "weekly": {
           "6289529564336@s.whatsapp.net": 2,
           "6285789795615@s.whatsapp.net": 1,
           "62895428679330@s.whatsapp.net": 1,
           "6282371792598@s.whatsapp.net": 1,
-          "62882019673641@s.whatsapp.net": 1
+          "62882019673641@s.whatsapp.net": 2
         }
       },
       "customData": {},
-      "afk": {}
+      "afk": {},
+      "goodbye": false,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null
     }
   },
   "antilink": {
