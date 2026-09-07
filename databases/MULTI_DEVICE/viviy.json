@@ -23817,10 +23817,10 @@
       "mute": false,
       "stats": {
         "daily": {
-          "62882005161190@s.whatsapp.net": 363,
+          "62882005161190@s.whatsapp.net": 367,
           "6281292571906@s.whatsapp.net": 28,
           "6281337635858@s.whatsapp.net": 8,
-          "6285821361374@s.whatsapp.net": 114,
+          "6285821361374@s.whatsapp.net": 116,
           "6289688202170@s.whatsapp.net": 14,
           "6289652992010@s.whatsapp.net": 44,
           "6281347237208@s.whatsapp.net": 1,
@@ -23840,10 +23840,10 @@
           "6289684266766@s.whatsapp.net": 1
         },
         "weekly": {
-          "62882005161190@s.whatsapp.net": 363,
+          "62882005161190@s.whatsapp.net": 367,
           "6281292571906@s.whatsapp.net": 28,
           "6281337635858@s.whatsapp.net": 8,
-          "6285821361374@s.whatsapp.net": 114,
+          "6285821361374@s.whatsapp.net": 116,
           "6289688202170@s.whatsapp.net": 14,
           "6289652992010@s.whatsapp.net": 44,
           "6281347237208@s.whatsapp.net": 1,
@@ -24264,6 +24264,27 @@
     },
     "120363422264646547@g.us": {
       "jid": "120363422264646547@g.us",
+      "name": "",
+      "welcome": false,
+      "goodbye": false,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null,
+      "antilink": false,
+      "antilinkAction": "kick",
+      "antibot": false,
+      "antidelete": false,
+      "antivirtex": false,
+      "antitoxic": false,
+      "antispam": false,
+      "mute": false,
+      "customData": {}
+    },
+    "120363409175419145@g.us": {
+      "jid": "120363409175419145@g.us",
       "name": "",
       "welcome": false,
       "goodbye": false,
