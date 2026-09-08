@@ -334,7 +334,7 @@
       "registered": true,
       "registeredAt": 1787187918102,
       "level": 0,
-      "exp": 165,
+      "exp": 170,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -29112,6 +29112,38 @@
       "antispam": false,
       "mute": false,
       "customData": {}
+    },
+    "120363428559560156@g.us": {
+      "jid": "120363428559560156@g.us",
+      "name": "",
+      "welcome": false,
+      "goodbye": false,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null,
+      "antilink": false,
+      "antilinkAction": "kick",
+      "antibot": false,
+      "antidelete": false,
+      "antivirtex": false,
+      "antitoxic": false,
+      "antispam": false,
+      "mute": false,
+      "customData": {},
+      "stats": {
+        "daily": {
+          "6285757044985@s.whatsapp.net": 1,
+          "6281246404348@s.whatsapp.net": 1
+        },
+        "weekly": {
+          "6285757044985@s.whatsapp.net": 1,
+          "6281246404348@s.whatsapp.net": 1
+        }
+      },
+      "afk": {}
     }
   },
   "antilink": {
@@ -29174,6 +29206,16 @@
       "tg": false,
       "tt": false,
       "tw": false
+    },
+    "120363428559560156@g.us": {
+      "all": false,
+      "gc": false,
+      "ch": false,
+      "fb": false,
+      "ig": false,
+      "tg": false,
+      "tt": false,
+      "tw": false
     }
   },
   "sewa": {
@@ -29203,6 +29245,11 @@
       "type": ""
     },
     "120363402609054503@g.us": {
+      "active": false,
+      "expired": 0,
+      "type": ""
+    },
+    "120363428559560156@g.us": {
       "active": false,
       "expired": 0,
       "type": ""
