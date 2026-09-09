@@ -170,7 +170,7 @@
       "registered": true,
       "registeredAt": 1788919958540,
       "level": 0,
-      "exp": 115,
+      "exp": 120,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -672,11 +672,11 @@
       "mute": false,
       "stats": {
         "daily": {
-          "628979894771@s.whatsapp.net": 34,
+          "628979894771@s.whatsapp.net": 36,
           "6283833251330@s.whatsapp.net": 1
         },
         "weekly": {
-          "628979894771@s.whatsapp.net": 34,
+          "628979894771@s.whatsapp.net": 36,
           "6283833251330@s.whatsapp.net": 1
         }
       },
@@ -685,6 +685,27 @@
     },
     "120363410515970131@g.us": {
       "jid": "120363410515970131@g.us",
+      "name": "",
+      "welcome": false,
+      "goodbye": false,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null,
+      "antilink": false,
+      "antilinkAction": "kick",
+      "antibot": false,
+      "antidelete": false,
+      "antivirtex": false,
+      "antitoxic": false,
+      "antispam": false,
+      "mute": false,
+      "customData": {}
+    },
+    "120363427405639747@g.us": {
+      "jid": "120363427405639747@g.us",
       "name": "",
       "welcome": false,
       "goodbye": false,
