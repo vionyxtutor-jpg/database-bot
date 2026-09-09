@@ -169,9 +169,9 @@
       "name": "rez",
       "registered": true,
       "registeredAt": 1788919958540,
-      "level": 0,
-      "exp": 125,
-      "money": 0,
+      "level": 4,
+      "exp": 4758,
+      "money": 30756,
       "lastClaim": 0,
       "lastDaily": 0,
       "lastWeekly": 0,
@@ -190,8 +190,8 @@
       "premiumExpired": 0,
       "premiumType": "",
       "bank": 0,
-      "health": 200,
-      "stamina": 300,
+      "health": 162,
+      "stamina": 228,
       "role": "",
       "pet": "",
       "pasangan": "",
@@ -201,7 +201,7 @@
       "lastadventure": 0,
       "lastadventurepet": 0,
       "lastdagang": 0,
-      "merampok": 0,
+      "merampok": 1788974135942,
       "mulung": 0,
       "membunuh": 0,
       "lastopen": 0,
@@ -326,7 +326,19 @@
       "makananphonix": 0,
       "makanangriffin": 0,
       "makanankyubi": 0,
-      "makanancentaur": 0
+      "makanancentaur": 0,
+      "_tfDodge": {
+        "count": 1,
+        "firstTime": 1788974178767,
+        "locked": false,
+        "lockUntil": 0
+      },
+      "_tfDodgeTaxed": {
+        "count": 0,
+        "firstTime": 0,
+        "locked": false,
+        "lockUntil": 0
+      }
     },
     "257758955888706@s.whatsapp.net": {
       "jid": "257758955888706@s.whatsapp.net",
@@ -497,9 +509,9 @@
       "name": "rezzhandsome",
       "registered": true,
       "registeredAt": 1788957564150,
-      "level": 0,
-      "exp": 70,
-      "money": 0,
+      "level": 3,
+      "exp": 2550,
+      "money": 4800,
       "lastClaim": 0,
       "lastDaily": 0,
       "lastWeekly": 0,
@@ -518,8 +530,8 @@
       "premiumExpired": 0,
       "premiumType": "",
       "bank": 0,
-      "health": 200,
-      "stamina": 300,
+      "health": 132,
+      "stamina": 206,
       "role": "",
       "pet": "",
       "pasangan": "",
@@ -541,7 +553,7 @@
       "rpgmonthly": 0,
       "rpgyearly": 0,
       "streakdaily": 0,
-      "ngelonte": 0,
+      "ngelonte": 1788974037041,
       "ngewe": 1788973960444,
       "ojekk": 0,
       "nambang": 0,
@@ -836,12 +848,12 @@
       "mute": false,
       "stats": {
         "daily": {
-          "628979894771@s.whatsapp.net": 39,
-          "6283833251330@s.whatsapp.net": 16
+          "628979894771@s.whatsapp.net": 45,
+          "6283833251330@s.whatsapp.net": 24
         },
         "weekly": {
-          "628979894771@s.whatsapp.net": 39,
-          "6283833251330@s.whatsapp.net": 16
+          "628979894771@s.whatsapp.net": 45,
+          "6283833251330@s.whatsapp.net": 24
         }
       },
       "customData": {},
