@@ -38808,27 +38808,27 @@
       "stats": {
         "daily": {
           "6281372042524@s.whatsapp.net": 15,
-          "6285750843391@s.whatsapp.net": 159,
-          "6285122099240@s.whatsapp.net": 111,
-          "628977310819@s.whatsapp.net": 86,
-          "6282364839937@s.whatsapp.net": 48,
+          "6285750843391@s.whatsapp.net": 185,
+          "6285122099240@s.whatsapp.net": 113,
+          "628977310819@s.whatsapp.net": 108,
+          "6282364839937@s.whatsapp.net": 57,
           "6285820803242@s.whatsapp.net": 12,
           "6289653839620@s.whatsapp.net": 50,
           "6289682504278@s.whatsapp.net": 25,
-          "6287740071080@s.whatsapp.net": 172,
-          "6285700864615@s.whatsapp.net": 13
+          "6287740071080@s.whatsapp.net": 212,
+          "6285700864615@s.whatsapp.net": 19
         },
         "weekly": {
           "6281372042524@s.whatsapp.net": 15,
-          "6285750843391@s.whatsapp.net": 159,
-          "6285122099240@s.whatsapp.net": 111,
-          "628977310819@s.whatsapp.net": 86,
-          "6282364839937@s.whatsapp.net": 48,
+          "6285750843391@s.whatsapp.net": 185,
+          "6285122099240@s.whatsapp.net": 113,
+          "628977310819@s.whatsapp.net": 108,
+          "6282364839937@s.whatsapp.net": 57,
           "6285820803242@s.whatsapp.net": 12,
           "6289653839620@s.whatsapp.net": 50,
           "6289682504278@s.whatsapp.net": 25,
-          "6287740071080@s.whatsapp.net": 172,
-          "6285700864615@s.whatsapp.net": 13
+          "6287740071080@s.whatsapp.net": 212,
+          "6285700864615@s.whatsapp.net": 19
         }
       },
       "customData": {},
@@ -38881,6 +38881,27 @@
     },
     "120363045366070408@g.us": {
       "jid": "120363045366070408@g.us",
+      "name": "",
+      "welcome": false,
+      "goodbye": false,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null,
+      "antilink": false,
+      "antilinkAction": "kick",
+      "antibot": false,
+      "antidelete": false,
+      "antivirtex": false,
+      "antitoxic": false,
+      "antispam": false,
+      "mute": false,
+      "customData": {}
+    },
+    "120363429699540429@g.us": {
+      "jid": "120363429699540429@g.us",
       "name": "",
       "welcome": false,
       "goodbye": false,
