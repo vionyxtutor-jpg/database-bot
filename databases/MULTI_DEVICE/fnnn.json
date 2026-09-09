@@ -170,7 +170,7 @@
       "registered": true,
       "registeredAt": 1787143312470,
       "level": 0,
-      "exp": 938,
+      "exp": 943,
       "money": 1,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -28214,7 +28214,7 @@
       "registered": false,
       "registeredAt": 0,
       "level": 0,
-      "exp": 0,
+      "exp": 5,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -29034,7 +29034,7 @@
       "registered": false,
       "registeredAt": 0,
       "level": 0,
-      "exp": 35,
+      "exp": 40,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -37658,18 +37658,27 @@
       "mute": false,
       "stats": {
         "daily": {
-          "6281372042524@s.whatsapp.net": 2,
-          "6285750843391@s.whatsapp.net": 2,
-          "6285122099240@s.whatsapp.net": 8
+          "6281372042524@s.whatsapp.net": 3,
+          "6285750843391@s.whatsapp.net": 4,
+          "6285122099240@s.whatsapp.net": 11,
+          "628977310819@s.whatsapp.net": 3
         },
         "weekly": {
-          "6281372042524@s.whatsapp.net": 2,
-          "6285750843391@s.whatsapp.net": 2,
-          "6285122099240@s.whatsapp.net": 8
+          "6281372042524@s.whatsapp.net": 3,
+          "6285750843391@s.whatsapp.net": 4,
+          "6285122099240@s.whatsapp.net": 11,
+          "628977310819@s.whatsapp.net": 3
         }
       },
       "customData": {},
-      "afk": {}
+      "afk": {},
+      "goodbye": false,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null
     }
   },
   "antilink": {
