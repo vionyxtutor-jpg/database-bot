@@ -498,7 +498,7 @@
       "registered": true,
       "registeredAt": 1788957564150,
       "level": 0,
-      "exp": 40,
+      "exp": 70,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -542,7 +542,7 @@
       "rpgyearly": 0,
       "streakdaily": 0,
       "ngelonte": 0,
-      "ngewe": 0,
+      "ngewe": 1788973960444,
       "ojekk": 0,
       "nambang": 0,
       "nebang": 0,
@@ -573,7 +573,7 @@
       "diamond": 0,
       "string": 0,
       "wood": 0,
-      "trash": 0,
+      "trash": 3,
       "herb": 0,
       "botol": 0,
       "kardus": 0,
@@ -837,11 +837,11 @@
       "stats": {
         "daily": {
           "628979894771@s.whatsapp.net": 39,
-          "6283833251330@s.whatsapp.net": 10
+          "6283833251330@s.whatsapp.net": 16
         },
         "weekly": {
           "628979894771@s.whatsapp.net": 39,
-          "6283833251330@s.whatsapp.net": 10
+          "6283833251330@s.whatsapp.net": 16
         }
       },
       "customData": {},
