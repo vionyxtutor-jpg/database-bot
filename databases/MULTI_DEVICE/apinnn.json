@@ -146622,7 +146622,7 @@
       "registered": true,
       "registeredAt": 1788819408837,
       "level": 2,
-      "exp": 5,
+      "exp": 10,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -214346,7 +214346,7 @@
         "daily": {
           "6283139313585@s.whatsapp.net": 58,
           "6281257236358@s.whatsapp.net": 32,
-          "601112068167@s.whatsapp.net": 1,
+          "601112068167@s.whatsapp.net": 2,
           "6287814631100@s.whatsapp.net": 1,
           "6283869071704@s.whatsapp.net": 18,
           "6289688011788@s.whatsapp.net": 37,
@@ -214413,12 +214413,13 @@
           "6283165673496@s.whatsapp.net": 1,
           "6283192588595@s.whatsapp.net": 1,
           "6285189813794@s.whatsapp.net": 1,
-          "628137376423@s.whatsapp.net": 1
+          "628137376423@s.whatsapp.net": 1,
+          "6289614010905@s.whatsapp.net": 2
         },
         "weekly": {
           "6283139313585@s.whatsapp.net": 58,
           "6281257236358@s.whatsapp.net": 32,
-          "601112068167@s.whatsapp.net": 1,
+          "601112068167@s.whatsapp.net": 2,
           "6287814631100@s.whatsapp.net": 1,
           "6283869071704@s.whatsapp.net": 18,
           "6289688011788@s.whatsapp.net": 37,
@@ -214485,7 +214486,8 @@
           "6283165673496@s.whatsapp.net": 1,
           "6283192588595@s.whatsapp.net": 1,
           "6285189813794@s.whatsapp.net": 1,
-          "628137376423@s.whatsapp.net": 1
+          "628137376423@s.whatsapp.net": 1,
+          "6289614010905@s.whatsapp.net": 2
         }
       },
       "afk": {}
@@ -215172,7 +215174,7 @@
         "daily": {
           "6281532499587@s.whatsapp.net": 2,
           "6282221500464@s.whatsapp.net": 13,
-          "6281247026437@s.whatsapp.net": 371,
+          "6281247026437@s.whatsapp.net": 373,
           "6285321588067@s.whatsapp.net": 67,
           "6283178684435@s.whatsapp.net": 223,
           "6283139313585@s.whatsapp.net": 12,
@@ -215406,7 +215408,7 @@
         "weekly": {
           "6281532499587@s.whatsapp.net": 2,
           "6282221500464@s.whatsapp.net": 13,
-          "6281247026437@s.whatsapp.net": 371,
+          "6281247026437@s.whatsapp.net": 373,
           "6285321588067@s.whatsapp.net": 67,
           "6283178684435@s.whatsapp.net": 223,
           "6283139313585@s.whatsapp.net": 12,
