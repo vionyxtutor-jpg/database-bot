@@ -220910,11 +220910,11 @@
     },
     "639455146077@s.whatsapp.net": {
       "jid": "639455146077@s.whatsapp.net",
-      "name": "",
-      "registered": false,
-      "registeredAt": 0,
+      "name": "rohman",
+      "registered": true,
+      "registeredAt": 1789024864706,
       "level": 0,
-      "exp": 15,
+      "exp": 55,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -223288,7 +223288,7 @@
           "6283165673496@s.whatsapp.net": 296,
           "6282254547633@s.whatsapp.net": 18,
           "6289673611318@s.whatsapp.net": 3,
-          "6289608347340@s.whatsapp.net": 638,
+          "6289608347340@s.whatsapp.net": 642,
           "6285123992186@s.whatsapp.net": 4,
           "6288973143060@s.whatsapp.net": 167,
           "6282110143672@s.whatsapp.net": 328,
@@ -223535,7 +223535,7 @@
           "6283165673496@s.whatsapp.net": 296,
           "6282254547633@s.whatsapp.net": 18,
           "6289673611318@s.whatsapp.net": 3,
-          "6289608347340@s.whatsapp.net": 638,
+          "6289608347340@s.whatsapp.net": 642,
           "6285123992186@s.whatsapp.net": 4,
           "6288973143060@s.whatsapp.net": 167,
           "6282110143672@s.whatsapp.net": 328,
@@ -225713,7 +225713,7 @@
           "6285776768706@s.whatsapp.net": 1,
           "6285882883045@s.whatsapp.net": 1,
           "6285864263093@s.whatsapp.net": 1,
-          "639455146077@s.whatsapp.net": 11
+          "639455146077@s.whatsapp.net": 24
         },
         "weekly": {
           "6281532499587@s.whatsapp.net": 2,
@@ -225953,7 +225953,7 @@
           "6285776768706@s.whatsapp.net": 1,
           "6285882883045@s.whatsapp.net": 1,
           "6285864263093@s.whatsapp.net": 1,
-          "639455146077@s.whatsapp.net": 11
+          "639455146077@s.whatsapp.net": 24
         }
       },
       "customData": {},
