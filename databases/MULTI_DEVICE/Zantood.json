@@ -6,7 +6,7 @@
       "registered": true,
       "registeredAt": 1785121536047,
       "level": 14,
-      "exp": 55403,
+      "exp": 55413,
       "money": 726841,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -43535,7 +43535,7 @@
     "120363410025330293@g.us": {
       "stats": {
         "daily": {
-          "6283869455559@s.whatsapp.net": 825,
+          "6283869455559@s.whatsapp.net": 828,
           "6283193088718@s.whatsapp.net": 13,
           "6281931260555@s.whatsapp.net": 454,
           "60145490571@s.whatsapp.net": 1,
@@ -43543,7 +43543,7 @@
           "6283178628724@s.whatsapp.net": 1
         },
         "weekly": {
-          "6283869455559@s.whatsapp.net": 825,
+          "6283869455559@s.whatsapp.net": 828,
           "6283193088718@s.whatsapp.net": 13,
           "6281931260555@s.whatsapp.net": 454,
           "60145490571@s.whatsapp.net": 1,
@@ -43563,7 +43563,9 @@
       "warn": {
         "6281931260555@s.whatsapp.net": 0
       },
-      "blacklist": [],
+      "blacklist": [
+        "6281931260555@s.whatsapp.net"
+      ],
       "autoclose": true,
       "closeTime": "22:00",
       "openTime": "06:00"
