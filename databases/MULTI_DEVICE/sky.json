@@ -11603,7 +11603,7 @@
           "6285727222516@s.whatsapp.net": 45,
           "6283850980633@s.whatsapp.net": 15,
           "6281313613792@s.whatsapp.net": 10,
-          "6281392873165@s.whatsapp.net": 9
+          "6281392873165@s.whatsapp.net": 10
         },
         "weekly": {
           "628977441187@s.whatsapp.net": 70,
@@ -11611,7 +11611,7 @@
           "6285727222516@s.whatsapp.net": 45,
           "6283850980633@s.whatsapp.net": 15,
           "6281313613792@s.whatsapp.net": 10,
-          "6281392873165@s.whatsapp.net": 9
+          "6281392873165@s.whatsapp.net": 10
         }
       },
       "customData": {},
@@ -11619,6 +11619,27 @@
     },
     "120363411765809915@g.us": {
       "jid": "120363411765809915@g.us",
+      "name": "",
+      "welcome": false,
+      "goodbye": false,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null,
+      "antilink": false,
+      "antilinkAction": "kick",
+      "antibot": false,
+      "antidelete": false,
+      "antivirtex": false,
+      "antitoxic": false,
+      "antispam": false,
+      "mute": false,
+      "customData": {}
+    },
+    "120363410515970131@g.us": {
+      "jid": "120363410515970131@g.us",
       "name": "",
       "welcome": false,
       "goodbye": false,
