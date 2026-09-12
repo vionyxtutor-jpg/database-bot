@@ -170,7 +170,7 @@
       "registered": true,
       "registeredAt": 1789211165229,
       "level": 0,
-      "exp": 30,
+      "exp": 35,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -1482,7 +1482,7 @@
       "registered": false,
       "registeredAt": 0,
       "level": 0,
-      "exp": 15,
+      "exp": 20,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -1820,26 +1820,26 @@
       "mute": false,
       "stats": {
         "daily": {
-          "6281412178808@s.whatsapp.net": 39,
-          "6282177333688@s.whatsapp.net": 19,
+          "6281412178808@s.whatsapp.net": 47,
+          "6282177333688@s.whatsapp.net": 24,
           "6285893026417@s.whatsapp.net": 12,
           "6289674128950@s.whatsapp.net": 1,
           "62895622422565@s.whatsapp.net": 1,
-          "6282298632195@s.whatsapp.net": 5
+          "6282298632195@s.whatsapp.net": 7
         },
         "weekly": {
-          "6281412178808@s.whatsapp.net": 39,
-          "6282177333688@s.whatsapp.net": 19,
+          "6281412178808@s.whatsapp.net": 47,
+          "6282177333688@s.whatsapp.net": 24,
           "6285893026417@s.whatsapp.net": 12,
           "6289674128950@s.whatsapp.net": 1,
           "62895622422565@s.whatsapp.net": 1,
-          "6282298632195@s.whatsapp.net": 5
+          "6282298632195@s.whatsapp.net": 7
         }
       },
       "customData": {},
       "afk": {},
       "goodbye": false,
-      "welcomeText": "selamat datang di ARCADIA membar intro ya\nnama : \numur :\naskot :",
+      "welcomeText": "on",
       "byeText": null,
       "welcomeImg": null,
       "byeImg": null,
