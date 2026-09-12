@@ -12009,7 +12009,14 @@
         }
       },
       "customData": {},
-      "afk": {}
+      "afk": {},
+      "goodbye": false,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null
     },
     "120363190210871287@g.us": {
       "jid": "120363190210871287@g.us",
@@ -12258,7 +12265,7 @@
       "mute": false,
       "stats": {
         "daily": {
-          "628977441187@s.whatsapp.net": 97,
+          "628977441187@s.whatsapp.net": 99,
           "62856001409190@s.whatsapp.net": 112,
           "6285727222516@s.whatsapp.net": 49,
           "6283850980633@s.whatsapp.net": 15,
@@ -12268,7 +12275,7 @@
           "6283169008959@s.whatsapp.net": 1
         },
         "weekly": {
-          "628977441187@s.whatsapp.net": 97,
+          "628977441187@s.whatsapp.net": 99,
           "62856001409190@s.whatsapp.net": 112,
           "6285727222516@s.whatsapp.net": 49,
           "6283850980633@s.whatsapp.net": 15,
