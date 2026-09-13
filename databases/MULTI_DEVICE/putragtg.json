@@ -169,9 +169,9 @@
       "name": "putra",
       "registered": true,
       "registeredAt": 1789211165229,
-      "level": 4,
-      "exp": 1748,
-      "money": 23006,
+      "level": 5,
+      "exp": 3346,
+      "money": 48275,
       "lastClaim": 0,
       "lastDaily": 0,
       "lastWeekly": 0,
@@ -190,8 +190,8 @@
       "premiumExpired": 0,
       "premiumType": "",
       "bank": 0,
-      "health": 182,
-      "stamina": 250,
+      "health": 163,
+      "stamina": 201,
       "role": "",
       "pet": "",
       "pasangan": "",
@@ -214,7 +214,7 @@
       "rpgyearly": 0,
       "streakdaily": 0,
       "ngelonte": 0,
-      "ngewe": 1789278533301,
+      "ngewe": 1789319910739,
       "ojekk": 0,
       "nambang": 0,
       "nebang": 0,
@@ -11332,7 +11332,7 @@
       "mute": false,
       "stats": {
         "daily": {
-          "6281412178808@s.whatsapp.net": 301,
+          "6281412178808@s.whatsapp.net": 314,
           "6282177333688@s.whatsapp.net": 641,
           "6285893026417@s.whatsapp.net": 228,
           "6289674128950@s.whatsapp.net": 177,
@@ -11366,10 +11366,10 @@
           "6285790215169@s.whatsapp.net": 76,
           "6281528514075@s.whatsapp.net": 117,
           "6282229028957@s.whatsapp.net": 11,
-          "628139516483@s.whatsapp.net": 28
+          "628139516483@s.whatsapp.net": 47
         },
         "weekly": {
-          "6281412178808@s.whatsapp.net": 301,
+          "6281412178808@s.whatsapp.net": 314,
           "6282177333688@s.whatsapp.net": 641,
           "6285893026417@s.whatsapp.net": 228,
           "6289674128950@s.whatsapp.net": 177,
@@ -11403,7 +11403,7 @@
           "6285790215169@s.whatsapp.net": 76,
           "6281528514075@s.whatsapp.net": 117,
           "6282229028957@s.whatsapp.net": 11,
-          "628139516483@s.whatsapp.net": 28
+          "628139516483@s.whatsapp.net": 47
         }
       },
       "customData": {},
