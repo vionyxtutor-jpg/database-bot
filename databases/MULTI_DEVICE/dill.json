@@ -39649,15 +39649,15 @@
       "mute": false,
       "stats": {
         "daily": {
-          "6289501976304@s.whatsapp.net": 1111,
-          "6283178863514@s.whatsapp.net": 1490,
+          "6289501976304@s.whatsapp.net": 1112,
+          "6283178863514@s.whatsapp.net": 1500,
           "6285743438682@s.whatsapp.net": 24,
           "6287797541885@s.whatsapp.net": 1335,
           "6283169825469@s.whatsapp.net": 84,
           "6285285632624@s.whatsapp.net": 35,
           "6287726442587@s.whatsapp.net": 41,
           "6282176260159@s.whatsapp.net": 17,
-          "6289528404603@s.whatsapp.net": 106,
+          "6289528404603@s.whatsapp.net": 111,
           "62895401085747@s.whatsapp.net": 203,
           "628118134868@s.whatsapp.net": 63,
           "6285750603515@s.whatsapp.net": 100,
@@ -39680,15 +39680,15 @@
           "6283115140509@s.whatsapp.net": 1
         },
         "weekly": {
-          "6289501976304@s.whatsapp.net": 1111,
-          "6283178863514@s.whatsapp.net": 1490,
+          "6289501976304@s.whatsapp.net": 1112,
+          "6283178863514@s.whatsapp.net": 1500,
           "6285743438682@s.whatsapp.net": 24,
           "6287797541885@s.whatsapp.net": 1335,
           "6283169825469@s.whatsapp.net": 84,
           "6285285632624@s.whatsapp.net": 35,
           "6287726442587@s.whatsapp.net": 41,
           "6282176260159@s.whatsapp.net": 17,
-          "6289528404603@s.whatsapp.net": 106,
+          "6289528404603@s.whatsapp.net": 111,
           "62895401085747@s.whatsapp.net": 203,
           "628118134868@s.whatsapp.net": 63,
           "6285750603515@s.whatsapp.net": 100,
@@ -40263,10 +40263,10 @@
         "daily": {
           "6283177372647@s.whatsapp.net": 166,
           "6283830845129@s.whatsapp.net": 82,
-          "6283160050968@s.whatsapp.net": 143,
+          "6283160050968@s.whatsapp.net": 151,
           "6285694446103@s.whatsapp.net": 95,
-          "62895332360070@s.whatsapp.net": 219,
-          "6283856566805@s.whatsapp.net": 340,
+          "62895332360070@s.whatsapp.net": 222,
+          "6283856566805@s.whatsapp.net": 341,
           "6285810757031@s.whatsapp.net": 16,
           "6283136395408@s.whatsapp.net": 2,
           "6283189189003@s.whatsapp.net": 32
@@ -40274,10 +40274,10 @@
         "weekly": {
           "6283177372647@s.whatsapp.net": 166,
           "6283830845129@s.whatsapp.net": 82,
-          "6283160050968@s.whatsapp.net": 143,
+          "6283160050968@s.whatsapp.net": 151,
           "6285694446103@s.whatsapp.net": 95,
-          "62895332360070@s.whatsapp.net": 219,
-          "6283856566805@s.whatsapp.net": 340,
+          "62895332360070@s.whatsapp.net": 222,
+          "6283856566805@s.whatsapp.net": 341,
           "6285810757031@s.whatsapp.net": 16,
           "6283136395408@s.whatsapp.net": 2,
           "6283189189003@s.whatsapp.net": 32
@@ -40303,7 +40303,7 @@
           "6287865924756@s.whatsapp.net": 38,
           "6283178863514@s.whatsapp.net": 13,
           "6285728960476@s.whatsapp.net": 21,
-          "6283847917774@s.whatsapp.net": 21,
+          "6283847917774@s.whatsapp.net": 22,
           "6281293242845@s.whatsapp.net": 1,
           "6287739890213@s.whatsapp.net": 1,
           "6283131084501@s.whatsapp.net": 13
@@ -40312,7 +40312,7 @@
           "6287865924756@s.whatsapp.net": 38,
           "6283178863514@s.whatsapp.net": 13,
           "6285728960476@s.whatsapp.net": 21,
-          "6283847917774@s.whatsapp.net": 21,
+          "6283847917774@s.whatsapp.net": 22,
           "6281293242845@s.whatsapp.net": 1,
           "6287739890213@s.whatsapp.net": 1,
           "6283131084501@s.whatsapp.net": 13
@@ -40580,6 +40580,27 @@
       "mute": false,
       "customData": {},
       "afk": {}
+    },
+    "120363427617481957@g.us": {
+      "jid": "120363427617481957@g.us",
+      "name": "",
+      "welcome": false,
+      "goodbye": false,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null,
+      "antilink": false,
+      "antilinkAction": "kick",
+      "antibot": false,
+      "antidelete": false,
+      "antivirtex": false,
+      "antitoxic": false,
+      "antispam": false,
+      "mute": false,
+      "customData": {}
     }
   },
   "antilink": {
