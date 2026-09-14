@@ -170,7 +170,7 @@
       "registered": true,
       "registeredAt": 1787143312470,
       "level": 2,
-      "exp": 233,
+      "exp": 238,
       "money": 1,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -50043,7 +50043,7 @@
           "6285750843391@s.whatsapp.net": 640,
           "6285122099240@s.whatsapp.net": 428,
           "628977310819@s.whatsapp.net": 155,
-          "6282364839937@s.whatsapp.net": 194,
+          "6282364839937@s.whatsapp.net": 195,
           "6285820803242@s.whatsapp.net": 39,
           "6289653839620@s.whatsapp.net": 105,
           "6289682504278@s.whatsapp.net": 141,
@@ -50063,7 +50063,7 @@
           "6285750843391@s.whatsapp.net": 640,
           "6285122099240@s.whatsapp.net": 428,
           "628977310819@s.whatsapp.net": 155,
-          "6282364839937@s.whatsapp.net": 194,
+          "6282364839937@s.whatsapp.net": 195,
           "6285820803242@s.whatsapp.net": 39,
           "6289653839620@s.whatsapp.net": 105,
           "6289682504278@s.whatsapp.net": 141,
@@ -50523,6 +50523,29 @@
       "antispam": false,
       "mute": false,
       "customData": {}
+    },
+    "120363413470256941@g.us": {
+      "jid": "120363413470256941@g.us",
+      "welcome": false,
+      "leave": false,
+      "antilink": false,
+      "antilinkAction": "kick",
+      "antibot": false,
+      "antidelete": false,
+      "antivirtex": false,
+      "antitoxic": false,
+      "antispam": false,
+      "mute": false,
+      "stats": {
+        "daily": {
+          "6285750843391@s.whatsapp.net": 1
+        },
+        "weekly": {
+          "6285750843391@s.whatsapp.net": 1
+        }
+      },
+      "customData": {},
+      "afk": {}
     }
   },
   "antilink": {
@@ -50625,6 +50648,16 @@
       "tg": false,
       "tt": false,
       "tw": false
+    },
+    "120363413470256941@g.us": {
+      "all": false,
+      "gc": false,
+      "ch": false,
+      "fb": false,
+      "ig": false,
+      "tg": false,
+      "tt": false,
+      "tw": false
     }
   },
   "sewa": {
@@ -50674,6 +50707,11 @@
       "type": ""
     },
     "120363408977167234@g.us": {
+      "active": false,
+      "expired": 0,
+      "type": ""
+    },
+    "120363413470256941@g.us": {
       "active": false,
       "expired": 0,
       "type": ""
