@@ -87778,11 +87778,11 @@
     },
     "628814370202@s.whatsapp.net": {
       "jid": "628814370202@s.whatsapp.net",
-      "name": "",
-      "registered": false,
-      "registeredAt": 0,
+      "name": "el",
+      "registered": true,
+      "registeredAt": 1789652893997,
       "level": 0,
-      "exp": 5,
+      "exp": 30,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -88499,7 +88499,7 @@
           "6283180383759@s.whatsapp.net": 13,
           "6285881858491@s.whatsapp.net": 2,
           "6283891714923@s.whatsapp.net": 1,
-          "628814370202@s.whatsapp.net": 2
+          "628814370202@s.whatsapp.net": 9
         },
         "weekly": {
           "6282135318890@s.whatsapp.net": 300,
@@ -88611,7 +88611,7 @@
           "6283180383759@s.whatsapp.net": 13,
           "6285881858491@s.whatsapp.net": 2,
           "6283891714923@s.whatsapp.net": 1,
-          "628814370202@s.whatsapp.net": 2
+          "628814370202@s.whatsapp.net": 9
         }
       },
       "customData": {},
