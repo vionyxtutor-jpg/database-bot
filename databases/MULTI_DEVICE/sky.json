@@ -34664,13 +34664,13 @@
       "stats": {
         "daily": {
           "6287742940490@s.whatsapp.net": 441,
-          "6285234652356@s.whatsapp.net": 463,
+          "6285234652356@s.whatsapp.net": 477,
           "6285199440448@s.whatsapp.net": 39,
           "6289510146933@s.whatsapp.net": 160,
           "6283197709651@s.whatsapp.net": 72,
           "6283894903430@s.whatsapp.net": 19,
           "6282277794262@s.whatsapp.net": 351,
-          "6283170306540@s.whatsapp.net": 723,
+          "6283170306540@s.whatsapp.net": 732,
           "62895335665383@s.whatsapp.net": 1,
           "6282284780971@s.whatsapp.net": 638,
           "6285775328744@s.whatsapp.net": 188,
@@ -34681,19 +34681,19 @@
           "6287812734842@s.whatsapp.net": 14,
           "6285882539783@s.whatsapp.net": 13,
           "6282139588649@s.whatsapp.net": 22,
-          "6285136376996@s.whatsapp.net": 13,
+          "6285136376996@s.whatsapp.net": 16,
           "6285758128366@s.whatsapp.net": 1,
           "6287713796111@s.whatsapp.net": 8
         },
         "weekly": {
           "6287742940490@s.whatsapp.net": 441,
-          "6285234652356@s.whatsapp.net": 463,
+          "6285234652356@s.whatsapp.net": 477,
           "6285199440448@s.whatsapp.net": 39,
           "6289510146933@s.whatsapp.net": 160,
           "6283197709651@s.whatsapp.net": 72,
           "6283894903430@s.whatsapp.net": 19,
           "6282277794262@s.whatsapp.net": 351,
-          "6283170306540@s.whatsapp.net": 723,
+          "6283170306540@s.whatsapp.net": 732,
           "62895335665383@s.whatsapp.net": 1,
           "6282284780971@s.whatsapp.net": 638,
           "6285775328744@s.whatsapp.net": 188,
@@ -34704,13 +34704,20 @@
           "6287812734842@s.whatsapp.net": 14,
           "6285882539783@s.whatsapp.net": 13,
           "6282139588649@s.whatsapp.net": 22,
-          "6285136376996@s.whatsapp.net": 13,
+          "6285136376996@s.whatsapp.net": 16,
           "6285758128366@s.whatsapp.net": 1,
           "6287713796111@s.whatsapp.net": 8
         }
       },
       "customData": {},
-      "afk": {}
+      "afk": {},
+      "goodbye": false,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null
     },
     "120363411283696007@g.us": {
       "jid": "120363411283696007@g.us",
