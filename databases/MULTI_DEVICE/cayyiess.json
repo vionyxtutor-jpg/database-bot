@@ -1810,7 +1810,7 @@
       "registered": false,
       "registeredAt": 0,
       "level": 0,
-      "exp": 55,
+      "exp": 65,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -19045,18 +19045,18 @@
       "mute": false,
       "stats": {
         "daily": {
-          "62882007826526@s.whatsapp.net": 125,
-          "6283829623667@s.whatsapp.net": 49
+          "62882007826526@s.whatsapp.net": 132,
+          "6283829623667@s.whatsapp.net": 54
         },
         "weekly": {
-          "62882007826526@s.whatsapp.net": 125,
-          "6283829623667@s.whatsapp.net": 49
+          "62882007826526@s.whatsapp.net": 132,
+          "6283829623667@s.whatsapp.net": 54
         }
       },
       "customData": {},
       "afk": {},
       "welcomeText": "haie yg baru masuk intro ya",
-      "goodbye": false,
+      "goodbye": true,
       "byeText": null,
       "welcomeImg": null,
       "byeImg": null,
