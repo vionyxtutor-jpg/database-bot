@@ -334,7 +334,7 @@
       "registered": true,
       "registeredAt": 1789662490059,
       "level": 0,
-      "exp": 75,
+      "exp": 80,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -5615,15 +5615,16 @@
     "120363430046569968@g.us": {
       "stats": {
         "daily": {
-          "62882007826526@s.whatsapp.net": 45,
-          "628973270426@s.whatsapp.net": 43
+          "62882007826526@s.whatsapp.net": 47,
+          "628973270426@s.whatsapp.net": 46
         },
         "weekly": {
-          "62882007826526@s.whatsapp.net": 45,
-          "628973270426@s.whatsapp.net": 43
+          "62882007826526@s.whatsapp.net": 47,
+          "628973270426@s.whatsapp.net": 46
         }
       },
-      "afk": {}
+      "afk": {},
+      "welcomeText": "haie yg baru masuk intro ya"
     },
     "120363428355036139@g.us": {
       "jid": "120363428355036139@g.us",
@@ -5733,7 +5734,7 @@
       "name": "",
       "welcome": false,
       "goodbye": false,
-      "welcomeText": null,
+      "welcomeText": "hai yg baru masuk, jangan lupa intro semogaa betahh ya di aimfov, jangan bosen bosen di sinii😅💕",
       "byeText": null,
       "welcomeImg": null,
       "byeImg": null,
@@ -5750,15 +5751,15 @@
       "customData": {},
       "stats": {
         "daily": {
-          "62882007826526@s.whatsapp.net": 18,
-          "6285199798842@s.whatsapp.net": 7,
-          "6285809483891@s.whatsapp.net": 17,
+          "62882007826526@s.whatsapp.net": 22,
+          "6285199798842@s.whatsapp.net": 11,
+          "6285809483891@s.whatsapp.net": 19,
           "62895325927382@s.whatsapp.net": 2
         },
         "weekly": {
-          "62882007826526@s.whatsapp.net": 18,
-          "6285199798842@s.whatsapp.net": 7,
-          "6285809483891@s.whatsapp.net": 17,
+          "62882007826526@s.whatsapp.net": 22,
+          "6285199798842@s.whatsapp.net": 11,
+          "6285809483891@s.whatsapp.net": 19,
           "62895325927382@s.whatsapp.net": 2
         }
       },
