@@ -19045,17 +19045,23 @@
       "mute": false,
       "stats": {
         "daily": {
-          "62882007826526@s.whatsapp.net": 99,
-          "6283829623667@s.whatsapp.net": 16
+          "62882007826526@s.whatsapp.net": 111,
+          "6283829623667@s.whatsapp.net": 26
         },
         "weekly": {
-          "62882007826526@s.whatsapp.net": 99,
-          "6283829623667@s.whatsapp.net": 16
+          "62882007826526@s.whatsapp.net": 111,
+          "6283829623667@s.whatsapp.net": 26
         }
       },
       "customData": {},
       "afk": {},
-      "welcomeText": "haie yg baru masuk intro ya"
+      "welcomeText": "haie yg baru masuk intro ya",
+      "goodbye": false,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null
     },
     "120363427617481957@g.us": {
       "jid": "120363427617481957@g.us",
@@ -19149,7 +19155,7 @@
           "62895639057056@s.whatsapp.net": 1,
           "6285293223019@s.whatsapp.net": 14,
           "6282117555031@s.whatsapp.net": 1,
-          "6281919132289@s.whatsapp.net": 198,
+          "6281919132289@s.whatsapp.net": 200,
           "6283138759511@s.whatsapp.net": 1,
           "6285788476314@s.whatsapp.net": 48,
           "6283179215204@s.whatsapp.net": 38,
@@ -19182,7 +19188,7 @@
           "62895639057056@s.whatsapp.net": 1,
           "6285293223019@s.whatsapp.net": 14,
           "6282117555031@s.whatsapp.net": 1,
-          "6281919132289@s.whatsapp.net": 198,
+          "6281919132289@s.whatsapp.net": 200,
           "6283138759511@s.whatsapp.net": 1,
           "6285788476314@s.whatsapp.net": 48,
           "6283179215204@s.whatsapp.net": 38,
