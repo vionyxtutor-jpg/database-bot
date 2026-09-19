@@ -19100,7 +19100,14 @@
         }
       },
       "customData": {},
-      "afk": {}
+      "afk": {},
+      "goodbye": false,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null
     },
     "120363427617481957@g.us": {
       "jid": "120363427617481957@g.us",
