@@ -11702,8 +11702,8 @@
       "registered": true,
       "registeredAt": 1784960562183,
       "level": 28,
-      "exp": 103952,
-      "money": 1690209,
+      "exp": 135810,
+      "money": 7393,
       "lastClaim": 0,
       "lastDaily": 0,
       "lastWeekly": 0,
@@ -11721,9 +11721,9 @@
       "premium": false,
       "premiumExpired": 0,
       "premiumType": "",
-      "bank": 32263672,
-      "health": 184,
-      "stamina": 170,
+      "bank": 34002873,
+      "health": 170,
+      "stamina": 97,
       "role": "Penakluk Medan 🎯",
       "pet": "",
       "pasangan": "",
@@ -11732,7 +11732,7 @@
       "lasthunter": 1789817525759,
       "lastadventure": 1789817506934,
       "lastadventurepet": 0,
-      "lastdagang": 1789807073304,
+      "lastdagang": 1789817664530,
       "merampok": 1789807181244,
       "mulung": 1789817610211,
       "membunuh": 1789802737544,
@@ -11757,8 +11757,8 @@
       "tomoneyDateKey": "",
       "dagangPartners": [
         {
-          "jid": "6289676902300@s.whatsapp.net",
-          "time": 1789807073304
+          "jid": "6289514393943@s.whatsapp.net",
+          "time": 1789817664530
         }
       ],
       "common": 39,
@@ -11867,7 +11867,8 @@
       "lastdagang_with_6283188402445@s.whatsapp.net": 1789643760059,
       "lastdagang_with_6283157764143@s.whatsapp.net": 1789134594809,
       "lastdagang_with_6285188528838@s.whatsapp.net": 1789569794044,
-      "lastdagang_with_6289676902300@s.whatsapp.net": 1789807073304
+      "lastdagang_with_6289676902300@s.whatsapp.net": 1789807073304,
+      "lastdagang_with_6289514393943@s.whatsapp.net": 1789817664530
     },
     "62895326198215@s.whatsapp.net": {
       "jid": "62895326198215@s.whatsapp.net",
@@ -15156,7 +15157,7 @@
       "registeredAt": 1785578665374,
       "level": 25,
       "exp": 190712,
-      "money": 114183,
+      "money": 118755,
       "lastClaim": 0,
       "lastDaily": 0,
       "lastWeekly": 0,
@@ -15324,7 +15325,8 @@
       "griffinsick": false,
       "kyubisick": false,
       "centaursick": false,
-      "lastdagang_with_6283188402445@s.whatsapp.net": 1789563525099
+      "lastdagang_with_6283188402445@s.whatsapp.net": 1789563525099,
+      "lastdagang_with_6283125512488@s.whatsapp.net": 1789817664530
     },
     "6285772250954@s.whatsapp.net": {
       "jid": "6285772250954@s.whatsapp.net",
@@ -88918,7 +88920,7 @@
           "6282188763630@s.whatsapp.net": 2373,
           "6287860558193@s.whatsapp.net": 102,
           "6282373606760@s.whatsapp.net": 8,
-          "6283125512488@s.whatsapp.net": 1785,
+          "6283125512488@s.whatsapp.net": 1788,
           "6285138665786@s.whatsapp.net": 9,
           "6285166078995@s.whatsapp.net": 7,
           "6285787011561@s.whatsapp.net": 6,
@@ -89030,7 +89032,7 @@
           "6282188763630@s.whatsapp.net": 2373,
           "6287860558193@s.whatsapp.net": 102,
           "6282373606760@s.whatsapp.net": 8,
-          "6283125512488@s.whatsapp.net": 1785,
+          "6283125512488@s.whatsapp.net": 1788,
           "6285138665786@s.whatsapp.net": 9,
           "6285166078995@s.whatsapp.net": 7,
           "6285787011561@s.whatsapp.net": 6,
