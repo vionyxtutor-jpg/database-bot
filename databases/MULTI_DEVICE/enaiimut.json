@@ -21818,7 +21818,7 @@
       "registered": false,
       "registeredAt": 0,
       "level": 0,
-      "exp": 65,
+      "exp": 75,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -24476,15 +24476,15 @@
       "stats": {
         "daily": {
           "62882007826526@s.whatsapp.net": 163,
-          "628973270426@s.whatsapp.net": 241,
+          "628973270426@s.whatsapp.net": 245,
           "6283826117488@s.whatsapp.net": 8,
-          "6288976620033@s.whatsapp.net": 13
+          "6288976620033@s.whatsapp.net": 14
         },
         "weekly": {
           "62882007826526@s.whatsapp.net": 163,
-          "628973270426@s.whatsapp.net": 241,
+          "628973270426@s.whatsapp.net": 245,
           "6283826117488@s.whatsapp.net": 8,
-          "6288976620033@s.whatsapp.net": 13
+          "6288976620033@s.whatsapp.net": 14
         }
       },
       "afk": {},
@@ -24621,15 +24621,15 @@
       "customData": {},
       "stats": {
         "daily": {
-          "62882007826526@s.whatsapp.net": 665,
+          "62882007826526@s.whatsapp.net": 669,
           "6285199798842@s.whatsapp.net": 152,
           "6285809483891@s.whatsapp.net": 583,
           "62895325927382@s.whatsapp.net": 4,
           "6288245190223@s.whatsapp.net": 1,
           "6285609068298@s.whatsapp.net": 418,
           "6285810537594@s.whatsapp.net": 361,
-          "6283151266577@s.whatsapp.net": 494,
-          "6282141570252@s.whatsapp.net": 866,
+          "6283151266577@s.whatsapp.net": 501,
+          "6282141570252@s.whatsapp.net": 879,
           "6281398194512@s.whatsapp.net": 67,
           "6289503218871@s.whatsapp.net": 122,
           "6282190152529@s.whatsapp.net": 9,
@@ -24646,8 +24646,8 @@
           "6281234296916@s.whatsapp.net": 21,
           "6288808674872@s.whatsapp.net": 5,
           "628973135339@s.whatsapp.net": 7,
-          "6288215538692@s.whatsapp.net": 115,
-          "6285787989694@s.whatsapp.net": 30,
+          "6288215538692@s.whatsapp.net": 122,
+          "6285787989694@s.whatsapp.net": 38,
           "628984355452@s.whatsapp.net": 8,
           "6285122429794@s.whatsapp.net": 5,
           "6282211515860@s.whatsapp.net": 66,
@@ -24666,21 +24666,21 @@
           "6283832966167@s.whatsapp.net": 14,
           "6283829017799@s.whatsapp.net": 26,
           "6281373911494@s.whatsapp.net": 4,
-          "6285754632792@s.whatsapp.net": 98,
+          "6285754632792@s.whatsapp.net": 101,
           "6285143289712@s.whatsapp.net": 4,
           "6282234044839@s.whatsapp.net": 1,
-          "6283190461589@s.whatsapp.net": 11
+          "6283190461589@s.whatsapp.net": 20
         },
         "weekly": {
-          "62882007826526@s.whatsapp.net": 665,
+          "62882007826526@s.whatsapp.net": 669,
           "6285199798842@s.whatsapp.net": 152,
           "6285809483891@s.whatsapp.net": 583,
           "62895325927382@s.whatsapp.net": 4,
           "6288245190223@s.whatsapp.net": 1,
           "6285609068298@s.whatsapp.net": 418,
           "6285810537594@s.whatsapp.net": 361,
-          "6283151266577@s.whatsapp.net": 494,
-          "6282141570252@s.whatsapp.net": 866,
+          "6283151266577@s.whatsapp.net": 501,
+          "6282141570252@s.whatsapp.net": 879,
           "6281398194512@s.whatsapp.net": 67,
           "6289503218871@s.whatsapp.net": 122,
           "6282190152529@s.whatsapp.net": 9,
@@ -24697,8 +24697,8 @@
           "6281234296916@s.whatsapp.net": 21,
           "6288808674872@s.whatsapp.net": 5,
           "628973135339@s.whatsapp.net": 7,
-          "6288215538692@s.whatsapp.net": 115,
-          "6285787989694@s.whatsapp.net": 30,
+          "6288215538692@s.whatsapp.net": 122,
+          "6285787989694@s.whatsapp.net": 38,
           "628984355452@s.whatsapp.net": 8,
           "6285122429794@s.whatsapp.net": 5,
           "6282211515860@s.whatsapp.net": 66,
@@ -24717,10 +24717,10 @@
           "6283832966167@s.whatsapp.net": 14,
           "6283829017799@s.whatsapp.net": 26,
           "6281373911494@s.whatsapp.net": 4,
-          "6285754632792@s.whatsapp.net": 98,
+          "6285754632792@s.whatsapp.net": 101,
           "6285143289712@s.whatsapp.net": 4,
           "6282234044839@s.whatsapp.net": 1,
-          "6283190461589@s.whatsapp.net": 11
+          "6283190461589@s.whatsapp.net": 20
         }
       },
       "afk": {}
