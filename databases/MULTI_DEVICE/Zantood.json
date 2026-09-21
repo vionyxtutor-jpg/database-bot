@@ -6,7 +6,7 @@
       "registered": true,
       "registeredAt": 1785121536047,
       "level": 14,
-      "exp": 55773,
+      "exp": 55778,
       "money": 28000,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -52327,8 +52327,8 @@
         "daily": {
           "6283865445701@s.whatsapp.net": 2,
           "6285747260702@s.whatsapp.net": 2,
-          "6281931260555@s.whatsapp.net": 326,
-          "6283869455559@s.whatsapp.net": 329,
+          "6281931260555@s.whatsapp.net": 328,
+          "6283869455559@s.whatsapp.net": 331,
           "6283130836988@s.whatsapp.net": 157,
           "62895630561428@s.whatsapp.net": 311,
           "60145490571@s.whatsapp.net": 103,
@@ -52338,8 +52338,8 @@
         "weekly": {
           "6283865445701@s.whatsapp.net": 2,
           "6285747260702@s.whatsapp.net": 2,
-          "6281931260555@s.whatsapp.net": 326,
-          "6283869455559@s.whatsapp.net": 329,
+          "6281931260555@s.whatsapp.net": 328,
+          "6283869455559@s.whatsapp.net": 331,
           "6283130836988@s.whatsapp.net": 157,
           "62895630561428@s.whatsapp.net": 311,
           "60145490571@s.whatsapp.net": 103,
@@ -52355,7 +52355,10 @@
       "welcomeImg": null,
       "byeImg": null,
       "welcomeBgUrl": null,
-      "goodbyeBgUrl": null
+      "goodbyeBgUrl": null,
+      "warn": {
+        "60145490571@s.whatsapp.net": 1
+      }
     },
     "120363430789172126@g.us": {
       "jid": "120363430789172126@g.us",
