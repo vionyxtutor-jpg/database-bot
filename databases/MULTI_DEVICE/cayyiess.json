@@ -46408,7 +46408,8 @@
       "antitoxic": false,
       "antispam": false,
       "mute": false,
-      "customData": {}
+      "customData": {},
+      "afk": {}
     },
     "120363425462397904@g.us": {
       "jid": "120363425462397904@g.us",
