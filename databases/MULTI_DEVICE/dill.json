@@ -61193,7 +61193,7 @@
       "mute": false,
       "stats": {
         "daily": {
-          "6289501976304@s.whatsapp.net": 1807,
+          "6289501976304@s.whatsapp.net": 1808,
           "6283178863514@s.whatsapp.net": 2131,
           "6285743438682@s.whatsapp.net": 29,
           "6287797541885@s.whatsapp.net": 1925,
@@ -61233,14 +61233,14 @@
           "6283198602732@s.whatsapp.net": 9,
           "6285220985242@s.whatsapp.net": 56,
           "6282381363981@s.whatsapp.net": 82,
-          "6285810452373@s.whatsapp.net": 178,
+          "6285810452373@s.whatsapp.net": 181,
           "6282261293155@s.whatsapp.net": 27,
           "6285813020155@s.whatsapp.net": 29,
           "6283890777186@s.whatsapp.net": 34,
           "62895361499100@s.whatsapp.net": 15
         },
         "weekly": {
-          "6289501976304@s.whatsapp.net": 1807,
+          "6289501976304@s.whatsapp.net": 1808,
           "6283178863514@s.whatsapp.net": 2131,
           "6285743438682@s.whatsapp.net": 29,
           "6287797541885@s.whatsapp.net": 1925,
@@ -61280,7 +61280,7 @@
           "6283198602732@s.whatsapp.net": 9,
           "6285220985242@s.whatsapp.net": 56,
           "6282381363981@s.whatsapp.net": 82,
-          "6285810452373@s.whatsapp.net": 178,
+          "6285810452373@s.whatsapp.net": 181,
           "6282261293155@s.whatsapp.net": 27,
           "6285813020155@s.whatsapp.net": 29,
           "6283890777186@s.whatsapp.net": 34,
@@ -62503,6 +62503,27 @@
       "byeImg": null,
       "welcomeBgUrl": null,
       "goodbyeBgUrl": null
+    },
+    "120363432695824362@g.us": {
+      "jid": "120363432695824362@g.us",
+      "name": "",
+      "welcome": false,
+      "goodbye": false,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null,
+      "antilink": false,
+      "antilinkAction": "kick",
+      "antibot": false,
+      "antidelete": false,
+      "antivirtex": false,
+      "antitoxic": false,
+      "antispam": false,
+      "mute": false,
+      "customData": {}
     }
   },
   "antilink": {
