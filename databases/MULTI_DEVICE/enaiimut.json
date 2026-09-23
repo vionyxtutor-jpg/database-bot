@@ -334,7 +334,7 @@
       "registered": true,
       "registeredAt": 1789662490059,
       "level": 0,
-      "exp": 965,
+      "exp": 970,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -38069,7 +38069,7 @@
       "customData": {},
       "stats": {
         "daily": {
-          "62882007826526@s.whatsapp.net": 1058,
+          "62882007826526@s.whatsapp.net": 1061,
           "6285199798842@s.whatsapp.net": 192,
           "6285809483891@s.whatsapp.net": 1092,
           "62895325927382@s.whatsapp.net": 114,
@@ -38135,10 +38135,10 @@
           "6285211929361@s.whatsapp.net": 1,
           "6283176042999@s.whatsapp.net": 15,
           "6283895188157@s.whatsapp.net": 8,
-          "6288276459538@s.whatsapp.net": 25
+          "6288276459538@s.whatsapp.net": 30
         },
         "weekly": {
-          "62882007826526@s.whatsapp.net": 1058,
+          "62882007826526@s.whatsapp.net": 1061,
           "6285199798842@s.whatsapp.net": 192,
           "6285809483891@s.whatsapp.net": 1092,
           "62895325927382@s.whatsapp.net": 114,
@@ -38204,7 +38204,7 @@
           "6285211929361@s.whatsapp.net": 1,
           "6283176042999@s.whatsapp.net": 15,
           "6283895188157@s.whatsapp.net": 8,
-          "6288276459538@s.whatsapp.net": 25
+          "6288276459538@s.whatsapp.net": 30
         }
       },
       "afk": {}
