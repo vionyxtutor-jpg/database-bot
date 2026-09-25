@@ -334,7 +334,7 @@
       "registered": true,
       "registeredAt": 1790317648441,
       "level": 0,
-      "exp": 40,
+      "exp": 50,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -538,14 +538,15 @@
       "mute": false,
       "stats": {
         "daily": {
-          "6283863788466@s.whatsapp.net": 17
+          "6283863788466@s.whatsapp.net": 20
         },
         "weekly": {
-          "6283863788466@s.whatsapp.net": 17
+          "6283863788466@s.whatsapp.net": 20
         }
       },
       "customData": {},
-      "afk": {}
+      "afk": {},
+      "goodbye": true
     },
     "120363406831482442@g.us": {
       "jid": "120363406831482442@g.us",
