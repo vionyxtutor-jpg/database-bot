@@ -330,11 +330,11 @@
     },
     "6283863788466@s.whatsapp.net": {
       "jid": "6283863788466@s.whatsapp.net",
-      "name": "",
-      "registered": false,
-      "registeredAt": 0,
+      "name": "kyy",
+      "registered": true,
+      "registeredAt": 1790317648441,
       "level": 0,
-      "exp": 5,
+      "exp": 10,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -515,7 +515,14 @@
         }
       },
       "customData": {},
-      "afk": {}
+      "afk": {},
+      "goodbye": false,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null
     },
     "120363411109120861@g.us": {
       "jid": "120363411109120861@g.us",
@@ -531,10 +538,10 @@
       "mute": false,
       "stats": {
         "daily": {
-          "6283863788466@s.whatsapp.net": 1
+          "6283863788466@s.whatsapp.net": 3
         },
         "weekly": {
-          "6283863788466@s.whatsapp.net": 1
+          "6283863788466@s.whatsapp.net": 3
         }
       },
       "customData": {},
