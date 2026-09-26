@@ -77556,6 +77556,27 @@
       "byeImg": null,
       "welcomeBgUrl": null,
       "goodbyeBgUrl": null
+    },
+    "120363410520249110@g.us": {
+      "jid": "120363410520249110@g.us",
+      "name": "",
+      "welcome": false,
+      "goodbye": false,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null,
+      "antilink": false,
+      "antilinkAction": "kick",
+      "antibot": false,
+      "antidelete": false,
+      "antivirtex": false,
+      "antitoxic": false,
+      "antispam": false,
+      "mute": false,
+      "customData": {}
     }
   },
   "antilink": {
