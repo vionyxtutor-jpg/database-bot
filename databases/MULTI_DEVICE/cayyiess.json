@@ -9518,7 +9518,7 @@
       "registered": true,
       "registeredAt": 1789728062592,
       "level": 0,
-      "exp": 205,
+      "exp": 210,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -10338,7 +10338,7 @@
       "registered": true,
       "registeredAt": 1789693633976,
       "level": 4,
-      "exp": 5518,
+      "exp": 5573,
       "money": 58858,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -77072,8 +77072,8 @@
       "mute": false,
       "stats": {
         "daily": {
-          "6288976620033@s.whatsapp.net": 35,
-          "6282326795785@s.whatsapp.net": 9,
+          "6288976620033@s.whatsapp.net": 37,
+          "6282326795785@s.whatsapp.net": 10,
           "6283193858358@s.whatsapp.net": 1,
           "6281919132289@s.whatsapp.net": 3,
           "62882016898829@s.whatsapp.net": 1,
@@ -77083,8 +77083,8 @@
           "6287794576159@s.whatsapp.net": 1
         },
         "weekly": {
-          "6288976620033@s.whatsapp.net": 35,
-          "6282326795785@s.whatsapp.net": 9,
+          "6288976620033@s.whatsapp.net": 37,
+          "6282326795785@s.whatsapp.net": 10,
           "6283193858358@s.whatsapp.net": 1,
           "6281919132289@s.whatsapp.net": 3,
           "62882016898829@s.whatsapp.net": 1,
@@ -77522,23 +77522,36 @@
       "antibot": false,
       "antidelete": false,
       "antivirtex": false,
-      "antitoxic": false,
+      "antitoxic": true,
       "antispam": false,
-      "mute": false,
+      "mute": true,
       "stats": {
         "daily": {
-          "6285788476314@s.whatsapp.net": 1,
+          "6285788476314@s.whatsapp.net": 19,
           "6282118337615@s.whatsapp.net": 1,
-          "6283804701527@s.whatsapp.net": 1
+          "6283804701527@s.whatsapp.net": 27,
+          "6281919132289@s.whatsapp.net": 11,
+          "6282372212993@s.whatsapp.net": 3,
+          "6288976620033@s.whatsapp.net": 4
         },
         "weekly": {
-          "6285788476314@s.whatsapp.net": 1,
+          "6285788476314@s.whatsapp.net": 19,
           "6282118337615@s.whatsapp.net": 1,
-          "6283804701527@s.whatsapp.net": 1
+          "6283804701527@s.whatsapp.net": 27,
+          "6281919132289@s.whatsapp.net": 11,
+          "6282372212993@s.whatsapp.net": 3,
+          "6288976620033@s.whatsapp.net": 4
         }
       },
       "customData": {},
-      "afk": {}
+      "afk": {},
+      "goodbye": true,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null
     }
   },
   "antilink": {
