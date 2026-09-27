@@ -166,11 +166,11 @@
     },
     "628132933814@s.whatsapp.net": {
       "jid": "628132933814@s.whatsapp.net",
-      "name": "",
-      "registered": false,
-      "registeredAt": 0,
+      "name": "Yu'er",
+      "registered": true,
+      "registeredAt": 1790483454661,
       "level": 0,
-      "exp": 5,
+      "exp": 25,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -344,10 +344,10 @@
       "mute": false,
       "stats": {
         "daily": {
-          "628132933814@s.whatsapp.net": 1
+          "628132933814@s.whatsapp.net": 6
         },
         "weekly": {
-          "628132933814@s.whatsapp.net": 1
+          "628132933814@s.whatsapp.net": 6
         }
       },
       "customData": {},
