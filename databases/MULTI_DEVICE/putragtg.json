@@ -24767,11 +24767,11 @@
     },
     "6281412092579@s.whatsapp.net": {
       "jid": "6281412092579@s.whatsapp.net",
-      "name": "",
-      "registered": false,
-      "registeredAt": 0,
+      "name": "parhan 99",
+      "registered": true,
+      "registeredAt": 1790478956212,
       "level": 0,
-      "exp": 0,
+      "exp": 25,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -26409,12 +26409,14 @@
         "daily": {
           "6281412178808@s.whatsapp.net": 1,
           "6285834338838@s.whatsapp.net": 2,
-          "6289518558616@s.whatsapp.net": 7
+          "6289518558616@s.whatsapp.net": 7,
+          "6281412092579@s.whatsapp.net": 5
         },
         "weekly": {
           "6281412178808@s.whatsapp.net": 1,
           "6285834338838@s.whatsapp.net": 2,
-          "6289518558616@s.whatsapp.net": 7
+          "6289518558616@s.whatsapp.net": 7,
+          "6281412092579@s.whatsapp.net": 5
         }
       },
       "customData": {},
