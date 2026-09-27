@@ -25259,11 +25259,11 @@
     },
     "6289518558616@s.whatsapp.net": {
       "jid": "6289518558616@s.whatsapp.net",
-      "name": "",
-      "registered": false,
-      "registeredAt": 0,
+      "name": "stepen 999+",
+      "registered": true,
+      "registeredAt": 1790479057311,
       "level": 0,
-      "exp": 15,
+      "exp": 40,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -26409,14 +26409,14 @@
         "daily": {
           "6281412178808@s.whatsapp.net": 1,
           "6285834338838@s.whatsapp.net": 2,
-          "6289518558616@s.whatsapp.net": 7,
-          "6281412092579@s.whatsapp.net": 5
+          "6289518558616@s.whatsapp.net": 14,
+          "6281412092579@s.whatsapp.net": 7
         },
         "weekly": {
           "6281412178808@s.whatsapp.net": 1,
           "6285834338838@s.whatsapp.net": 2,
-          "6289518558616@s.whatsapp.net": 7,
-          "6281412092579@s.whatsapp.net": 5
+          "6289518558616@s.whatsapp.net": 14,
+          "6281412092579@s.whatsapp.net": 7
         }
       },
       "customData": {},
