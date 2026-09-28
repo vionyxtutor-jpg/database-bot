@@ -98239,7 +98239,7 @@
       "mute": true,
       "stats": {
         "daily": {
-          "62895384842393@s.whatsapp.net": 24,
+          "62895384842393@s.whatsapp.net": 25,
           "6285722565315@s.whatsapp.net": 1,
           "6285381200319@s.whatsapp.net": 69,
           "6283870929785@s.whatsapp.net": 116,
@@ -98261,10 +98261,11 @@
           "6285894138098@s.whatsapp.net": 20,
           "6281342847884@s.whatsapp.net": 4,
           "6285820523336@s.whatsapp.net": 2,
-          "6282228078634@s.whatsapp.net": 1
+          "6282228078634@s.whatsapp.net": 1,
+          "62882016898829@s.whatsapp.net": 1
         },
         "weekly": {
-          "62895384842393@s.whatsapp.net": 24,
+          "62895384842393@s.whatsapp.net": 25,
           "6285722565315@s.whatsapp.net": 1,
           "6285381200319@s.whatsapp.net": 69,
           "6283870929785@s.whatsapp.net": 116,
@@ -98286,7 +98287,8 @@
           "6285894138098@s.whatsapp.net": 20,
           "6281342847884@s.whatsapp.net": 4,
           "6285820523336@s.whatsapp.net": 2,
-          "6282228078634@s.whatsapp.net": 1
+          "6282228078634@s.whatsapp.net": 1,
+          "62882016898829@s.whatsapp.net": 1
         }
       },
       "customData": {},
