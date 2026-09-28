@@ -6,7 +6,7 @@
       "registered": true,
       "registeredAt": 1790424978405,
       "level": 0,
-      "exp": 270,
+      "exp": 275,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -24275,12 +24275,12 @@
     },
     "6285810703408@s.whatsapp.net": {
       "jid": "6285810703408@s.whatsapp.net",
-      "name": "",
-      "registered": false,
-      "registeredAt": 0,
+      "name": "cy syg pu",
+      "registered": true,
+      "registeredAt": 1790613340204,
       "level": 3,
-      "exp": 1834,
-      "money": 64,
+      "exp": 2449,
+      "money": 73,
       "lastClaim": 0,
       "lastDaily": 0,
       "lastWeekly": 0,
@@ -24303,7 +24303,7 @@
       "stamina": 300,
       "role": "",
       "pet": "",
-      "pasangan": "",
+      "pasangan": "6281412178808@s.whatsapp.net",
       "lastberburu": 0,
       "lastfishing": 0,
       "lasthunter": 0,
@@ -28215,8 +28215,8 @@
       "registered": true,
       "registeredAt": 1790612858709,
       "level": 3,
-      "exp": 772,
-      "money": 63,
+      "exp": 1750,
+      "money": 76,
       "lastClaim": 0,
       "lastDaily": 0,
       "lastWeekly": 0,
@@ -32761,7 +32761,7 @@
       "stats": {
         "daily": {
           "6283190554058@s.whatsapp.net": 5,
-          "6283190500854@s.whatsapp.net": 365,
+          "6283190500854@s.whatsapp.net": 367,
           "6281586914378@s.whatsapp.net": 400,
           "6281412178808@s.whatsapp.net": 279,
           "6281529801829@s.whatsapp.net": 3,
@@ -32810,7 +32810,7 @@
         },
         "weekly": {
           "6283190554058@s.whatsapp.net": 5,
-          "6283190500854@s.whatsapp.net": 365,
+          "6283190500854@s.whatsapp.net": 367,
           "6281586914378@s.whatsapp.net": 400,
           "6281412178808@s.whatsapp.net": 279,
           "6281529801829@s.whatsapp.net": 3,
@@ -33084,13 +33084,13 @@
       "stats": {
         "daily": {
           "6281412178808@s.whatsapp.net": 26,
-          "6285810703408@s.whatsapp.net": 131,
-          "6287891537949@s.whatsapp.net": 87
+          "6285810703408@s.whatsapp.net": 197,
+          "6287891537949@s.whatsapp.net": 134
         },
         "weekly": {
           "6281412178808@s.whatsapp.net": 26,
-          "6285810703408@s.whatsapp.net": 131,
-          "6287891537949@s.whatsapp.net": 87
+          "6285810703408@s.whatsapp.net": 197,
+          "6287891537949@s.whatsapp.net": 134
         }
       },
       "customData": {},
