@@ -28215,7 +28215,7 @@
       "registered": true,
       "registeredAt": 1790612858709,
       "level": 3,
-      "exp": 1810,
+      "exp": 1820,
       "money": 76,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -28371,7 +28371,12 @@
       "makananphonix": 0,
       "makanangriffin": 0,
       "makanankyubi": 0,
-      "makanancentaur": 0
+      "makanancentaur": 0,
+      "nagasick": false,
+      "phonixsick": false,
+      "griffinsick": false,
+      "kyubisick": false,
+      "centaursick": false
     },
     "62895328093644@s.whatsapp.net": {
       "jid": "62895328093644@s.whatsapp.net",
@@ -33085,12 +33090,12 @@
         "daily": {
           "6281412178808@s.whatsapp.net": 51,
           "6285810703408@s.whatsapp.net": 218,
-          "6287891537949@s.whatsapp.net": 156
+          "6287891537949@s.whatsapp.net": 158
         },
         "weekly": {
           "6281412178808@s.whatsapp.net": 51,
           "6285810703408@s.whatsapp.net": 218,
-          "6287891537949@s.whatsapp.net": 156
+          "6287891537949@s.whatsapp.net": 158
         }
       },
       "customData": {},
