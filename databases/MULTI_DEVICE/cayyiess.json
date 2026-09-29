@@ -52984,7 +52984,7 @@
       "registered": false,
       "registeredAt": 0,
       "level": 0,
-      "exp": 290,
+      "exp": 295,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -103338,7 +103338,7 @@
       "mute": false,
       "stats": {
         "daily": {
-          "6285893338534@s.whatsapp.net": 1342,
+          "6285893338534@s.whatsapp.net": 1343,
           "6285761590797@s.whatsapp.net": 19,
           "6285779287023@s.whatsapp.net": 41,
           "6288976077301@s.whatsapp.net": 20,
@@ -103438,7 +103438,7 @@
           "6281232797164@s.whatsapp.net": 1
         },
         "weekly": {
-          "6285893338534@s.whatsapp.net": 1342,
+          "6285893338534@s.whatsapp.net": 1343,
           "6285761590797@s.whatsapp.net": 19,
           "6285779287023@s.whatsapp.net": 41,
           "6288976077301@s.whatsapp.net": 20,
@@ -103541,7 +103541,7 @@
       "customData": {},
       "afk": {},
       "goodbye": false,
-      "welcomeText": "(reply/caption foto dengan teks welcome)\n▣──⬣\n𝗻𝗮𝗺𝗮\n𝗻𝗶𝗰𝗸\n𝗱𝗲𝘃 (𝗽𝗰/𝗵𝗽/𝗺𝗯)",
+      "welcomeText": "(reply/caption foto dengan teks welcome)\n▣──⬣",
       "byeText": null,
       "welcomeImg": null,
       "byeImg": null,
