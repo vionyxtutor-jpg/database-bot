@@ -334,7 +334,7 @@
       "registered": true,
       "registeredAt": 1790317648441,
       "level": 0,
-      "exp": 75,
+      "exp": 80,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -378,7 +378,7 @@
       "rpgyearly": 0,
       "streakdaily": 0,
       "ngelonte": 0,
-      "ngewe": 0,
+      "ngewe": 1790774768680,
       "ojekk": 0,
       "nambang": 0,
       "nebang": 0,
@@ -1928,10 +1928,10 @@
       "mute": false,
       "stats": {
         "daily": {
-          "6283863788466@s.whatsapp.net": 2
+          "6283863788466@s.whatsapp.net": 3
         },
         "weekly": {
-          "6283863788466@s.whatsapp.net": 2
+          "6283863788466@s.whatsapp.net": 3
         }
       },
       "customData": {},
