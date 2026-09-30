@@ -333,9 +333,9 @@
       "name": "kyy",
       "registered": true,
       "registeredAt": 1790317648441,
-      "level": 0,
-      "exp": 80,
-      "money": 0,
+      "level": 2,
+      "exp": 1634,
+      "money": 14056,
       "lastClaim": 0,
       "lastDaily": 0,
       "lastWeekly": 0,
@@ -354,8 +354,8 @@
       "premiumExpired": 0,
       "premiumType": "",
       "bank": 0,
-      "health": 200,
-      "stamina": 300,
+      "health": 189,
+      "stamina": 263,
       "role": "",
       "pet": "",
       "pasangan": "",
@@ -1928,10 +1928,10 @@
       "mute": false,
       "stats": {
         "daily": {
-          "6283863788466@s.whatsapp.net": 3
+          "6283863788466@s.whatsapp.net": 4
         },
         "weekly": {
-          "6283863788466@s.whatsapp.net": 3
+          "6283863788466@s.whatsapp.net": 4
         }
       },
       "customData": {},
