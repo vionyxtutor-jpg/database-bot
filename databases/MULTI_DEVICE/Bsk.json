@@ -334,8 +334,8 @@
       "registered": true,
       "registeredAt": 1790317648441,
       "level": 2,
-      "exp": 1883,
-      "money": 14057,
+      "exp": 2127,
+      "money": 14061,
       "lastClaim": 0,
       "lastDaily": 0,
       "lastWeekly": 0,
@@ -3240,10 +3240,10 @@
       "mute": false,
       "stats": {
         "daily": {
-          "6283863788466@s.whatsapp.net": 6
+          "6283863788466@s.whatsapp.net": 8
         },
         "weekly": {
-          "6283863788466@s.whatsapp.net": 6
+          "6283863788466@s.whatsapp.net": 8
         }
       },
       "customData": {},
