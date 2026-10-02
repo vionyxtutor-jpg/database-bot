@@ -18703,7 +18703,7 @@
       "registeredAt": 1790833295010,
       "level": 3,
       "exp": 229,
-      "money": 5195,
+      "money": 12337,
       "lastClaim": 0,
       "lastDaily": 0,
       "lastWeekly": 0,
@@ -18858,7 +18858,8 @@
       "makananphonix": 0,
       "makanangriffin": 0,
       "makanankyubi": 0,
-      "makanancentaur": 0
+      "makanancentaur": 0,
+      "lastdagang_with_6287762731262@s.whatsapp.net": 1790917065943
     },
     "6285728960476@s.whatsapp.net": {
       "jid": "6285728960476@s.whatsapp.net",
@@ -134814,8 +134815,8 @@
       "registered": true,
       "registeredAt": 1790869714704,
       "level": 3,
-      "exp": 2135,
-      "money": 4452,
+      "exp": 17593,
+      "money": 50067,
       "lastClaim": 0,
       "lastDaily": 0,
       "lastWeekly": 0,
@@ -134835,7 +134836,7 @@
       "premiumType": "",
       "bank": 0,
       "health": 200,
-      "stamina": 269,
+      "stamina": 250,
       "role": "",
       "pet": "",
       "pasangan": "",
@@ -134844,7 +134845,7 @@
       "lasthunter": 0,
       "lastadventure": 0,
       "lastadventurepet": 0,
-      "lastdagang": 0,
+      "lastdagang": 1790917065943,
       "merampok": 0,
       "mulung": 1790870633303,
       "membunuh": 0,
@@ -134867,7 +134868,12 @@
       "spacemanStartTime": 0,
       "tomoneyUsedToday": 0,
       "tomoneyDateKey": "",
-      "dagangPartners": [],
+      "dagangPartners": [
+        {
+          "jid": "6287865924756@s.whatsapp.net",
+          "time": 1790917065943
+        }
+      ],
       "common": 0,
       "uncommon": 0,
       "legendary": 0,
@@ -134970,7 +134976,8 @@
       "makananphonix": 0,
       "makanangriffin": 0,
       "makanankyubi": 0,
-      "makanancentaur": 0
+      "makanancentaur": 0,
+      "lastdagang_with_6287865924756@s.whatsapp.net": 1790917065943
     },
     "6283862740863@s.whatsapp.net": {
       "jid": "6283862740863@s.whatsapp.net",
@@ -142024,7 +142031,7 @@
           "6285373420770@s.whatsapp.net": 42,
           "6285168199259@s.whatsapp.net": 72,
           "6285393369161@s.whatsapp.net": 1,
-          "6287762731262@s.whatsapp.net": 77,
+          "6287762731262@s.whatsapp.net": 81,
           "6283847917774@s.whatsapp.net": 25
         },
         "weekly": {
@@ -142038,7 +142045,7 @@
           "6285373420770@s.whatsapp.net": 42,
           "6285168199259@s.whatsapp.net": 72,
           "6285393369161@s.whatsapp.net": 1,
-          "6287762731262@s.whatsapp.net": 77,
+          "6287762731262@s.whatsapp.net": 81,
           "6283847917774@s.whatsapp.net": 25
         }
       },
