@@ -58723,6 +58723,60 @@
       "antispam": false,
       "mute": false,
       "customData": {}
+    },
+    "120363432130996280@g.us": {
+      "jid": "120363432130996280@g.us",
+      "welcome": false,
+      "leave": false,
+      "antilink": false,
+      "antilinkAction": "kick",
+      "antibot": false,
+      "antidelete": false,
+      "antivirtex": false,
+      "antitoxic": false,
+      "antispam": false,
+      "mute": false,
+      "stats": {
+        "daily": {
+          "6282177333688@s.whatsapp.net": 38,
+          "6285707081291@s.whatsapp.net": 11,
+          "6281586914378@s.whatsapp.net": 2,
+          "6285243167188@s.whatsapp.net": 2,
+          "62882022840149@s.whatsapp.net": 11,
+          "6285746380527@s.whatsapp.net": 1,
+          "6281412178808@s.whatsapp.net": 11,
+          "6285137598268@s.whatsapp.net": 6,
+          "6283112006297@s.whatsapp.net": 1,
+          "6287794080776@s.whatsapp.net": 9,
+          "6287814354734@s.whatsapp.net": 1,
+          "6285772039251@s.whatsapp.net": 16,
+          "62895323018126@s.whatsapp.net": 1
+        },
+        "weekly": {
+          "6282177333688@s.whatsapp.net": 38,
+          "6285707081291@s.whatsapp.net": 11,
+          "6281586914378@s.whatsapp.net": 2,
+          "6285243167188@s.whatsapp.net": 2,
+          "62882022840149@s.whatsapp.net": 11,
+          "6285746380527@s.whatsapp.net": 1,
+          "6281412178808@s.whatsapp.net": 11,
+          "6285137598268@s.whatsapp.net": 6,
+          "6283112006297@s.whatsapp.net": 1,
+          "6287794080776@s.whatsapp.net": 9,
+          "6287814354734@s.whatsapp.net": 1,
+          "6285772039251@s.whatsapp.net": 16,
+          "62895323018126@s.whatsapp.net": 1
+        }
+      },
+      "customData": {},
+      "afk": {},
+      "goodbye": false,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null
     }
   },
   "antilink": {
@@ -58805,6 +58859,16 @@
       "tg": false,
       "tt": false,
       "tw": false
+    },
+    "120363432130996280@g.us": {
+      "all": false,
+      "gc": false,
+      "ch": false,
+      "fb": false,
+      "ig": false,
+      "tg": false,
+      "tt": false,
+      "tw": false
     }
   },
   "sewa": {
@@ -58844,6 +58908,11 @@
       "type": ""
     },
     "120363411966231543@g.us": {
+      "active": false,
+      "expired": 0,
+      "type": ""
+    },
+    "120363432130996280@g.us": {
       "active": false,
       "expired": 0,
       "type": ""
