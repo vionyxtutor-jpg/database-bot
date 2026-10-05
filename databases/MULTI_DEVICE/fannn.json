@@ -5157,7 +5157,7 @@
           "6287896419601@s.whatsapp.net": 2,
           "6283866337538@s.whatsapp.net": 1,
           "6285777241814@s.whatsapp.net": 3,
-          "628819337810@s.whatsapp.net": 2,
+          "628819337810@s.whatsapp.net": 5,
           "6285168137853@s.whatsapp.net": 1
         },
         "weekly": {
@@ -5168,7 +5168,7 @@
           "6287896419601@s.whatsapp.net": 2,
           "6283866337538@s.whatsapp.net": 1,
           "6285777241814@s.whatsapp.net": 3,
-          "628819337810@s.whatsapp.net": 2,
+          "628819337810@s.whatsapp.net": 5,
           "6285168137853@s.whatsapp.net": 1
         }
       },
@@ -5261,6 +5261,27 @@
       },
       "customData": {},
       "afk": {}
+    },
+    "120363412002016549@g.us": {
+      "jid": "120363412002016549@g.us",
+      "name": "",
+      "welcome": false,
+      "goodbye": false,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null,
+      "antilink": false,
+      "antilinkAction": "kick",
+      "antibot": false,
+      "antidelete": false,
+      "antivirtex": false,
+      "antitoxic": false,
+      "antispam": false,
+      "mute": false,
+      "customData": {}
     }
   },
   "antilink": {
