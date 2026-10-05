@@ -170,7 +170,7 @@
       "registered": true,
       "registeredAt": 1791163721577,
       "level": 0,
-      "exp": 105,
+      "exp": 120,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -330,11 +330,11 @@
     },
     "6281292332058@s.whatsapp.net": {
       "jid": "6281292332058@s.whatsapp.net",
-      "name": "",
-      "registered": false,
-      "registeredAt": 0,
+      "name": "nizam",
+      "registered": true,
+      "registeredAt": 1791175114115,
       "level": 0,
-      "exp": 298,
+      "exp": 328,
       "money": 4,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -836,12 +836,12 @@
       "mute": false,
       "stats": {
         "daily": {
-          "6285715573972@s.whatsapp.net": 22,
-          "6281292332058@s.whatsapp.net": 11
+          "6285715573972@s.whatsapp.net": 23,
+          "6281292332058@s.whatsapp.net": 15
         },
         "weekly": {
-          "6285715573972@s.whatsapp.net": 22,
-          "6281292332058@s.whatsapp.net": 11
+          "6285715573972@s.whatsapp.net": 23,
+          "6281292332058@s.whatsapp.net": 15
         }
       },
       "customData": {},
