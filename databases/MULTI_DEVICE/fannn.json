@@ -34118,7 +34118,7 @@
       "registered": false,
       "registeredAt": 0,
       "level": 0,
-      "exp": 0,
+      "exp": 5,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -37251,7 +37251,7 @@
           "6287865475527@s.whatsapp.net": 5,
           "6287713015307@s.whatsapp.net": 1,
           "6287791840289@s.whatsapp.net": 4,
-          "628972540100@s.whatsapp.net": 17,
+          "628972540100@s.whatsapp.net": 18,
           "6287827877452@s.whatsapp.net": 1,
           "6285363734839@s.whatsapp.net": 1,
           "6282282273583@s.whatsapp.net": 2,
@@ -37286,7 +37286,7 @@
           "6287865475527@s.whatsapp.net": 5,
           "6287713015307@s.whatsapp.net": 1,
           "6287791840289@s.whatsapp.net": 4,
-          "628972540100@s.whatsapp.net": 17,
+          "628972540100@s.whatsapp.net": 18,
           "6287827877452@s.whatsapp.net": 1,
           "6285363734839@s.whatsapp.net": 1,
           "6282282273583@s.whatsapp.net": 2,
@@ -37757,20 +37757,29 @@
         "daily": {
           "6285215011646@s.whatsapp.net": 4,
           "6282294932975@s.whatsapp.net": 5,
-          "6281293111375@s.whatsapp.net": 5,
+          "6281293111375@s.whatsapp.net": 8,
           "6285212594505@s.whatsapp.net": 1,
-          "6285188793133@s.whatsapp.net": 2
+          "6285188793133@s.whatsapp.net": 4,
+          "6285750843391@s.whatsapp.net": 1
         },
         "weekly": {
           "6285215011646@s.whatsapp.net": 4,
           "6282294932975@s.whatsapp.net": 5,
-          "6281293111375@s.whatsapp.net": 5,
+          "6281293111375@s.whatsapp.net": 8,
           "6285212594505@s.whatsapp.net": 1,
-          "6285188793133@s.whatsapp.net": 2
+          "6285188793133@s.whatsapp.net": 4,
+          "6285750843391@s.whatsapp.net": 1
         }
       },
       "customData": {},
-      "afk": {}
+      "afk": {},
+      "goodbye": false,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null
     },
     "120363430288372748@g.us": {
       "jid": "120363430288372748@g.us",
