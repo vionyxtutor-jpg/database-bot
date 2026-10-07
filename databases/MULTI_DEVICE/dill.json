@@ -333,9 +333,9 @@
       "name": "dill",
       "registered": true,
       "registeredAt": 1788335102677,
-      "level": 3,
-      "exp": 5924,
-      "money": 26222,
+      "level": 4,
+      "exp": 2001,
+      "money": 23776,
       "lastClaim": 0,
       "lastDaily": 0,
       "lastWeekly": 0,
@@ -312298,12 +312298,12 @@
       "mute": false,
       "stats": {
         "daily": {
-          "6283178863514@s.whatsapp.net": 110,
+          "6283178863514@s.whatsapp.net": 203,
           "6285355206350@s.whatsapp.net": 14,
           "628382831502@s.whatsapp.net": 6
         },
         "weekly": {
-          "6283178863514@s.whatsapp.net": 110,
+          "6283178863514@s.whatsapp.net": 203,
           "6285355206350@s.whatsapp.net": 14,
           "628382831502@s.whatsapp.net": 6
         }
