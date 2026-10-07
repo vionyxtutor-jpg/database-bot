@@ -128344,7 +128344,7 @@
           "6289630428280@s.whatsapp.net": 1,
           "6285753646746@s.whatsapp.net": 1,
           "6282379959374@s.whatsapp.net": 1,
-          "6282339400737@s.whatsapp.net": 1,
+          "6282339400737@s.whatsapp.net": 2,
           "919641921884@s.whatsapp.net": 2,
           "6287821256088@s.whatsapp.net": 1
         },
@@ -128429,7 +128429,7 @@
           "6289630428280@s.whatsapp.net": 1,
           "6285753646746@s.whatsapp.net": 1,
           "6282379959374@s.whatsapp.net": 1,
-          "6282339400737@s.whatsapp.net": 1,
+          "6282339400737@s.whatsapp.net": 2,
           "919641921884@s.whatsapp.net": 2,
           "6287821256088@s.whatsapp.net": 1
         }
@@ -130135,7 +130135,7 @@
         "daily": {
           "6285750843391@s.whatsapp.net": 7,
           "6283175842462@s.whatsapp.net": 11,
-          "62895323060893@s.whatsapp.net": 10,
+          "62895323060893@s.whatsapp.net": 11,
           "6285878475969@s.whatsapp.net": 7,
           "6281469829552@s.whatsapp.net": 11,
           "6289627559010@s.whatsapp.net": 1,
@@ -130144,7 +130144,7 @@
         "weekly": {
           "6285750843391@s.whatsapp.net": 7,
           "6283175842462@s.whatsapp.net": 11,
-          "62895323060893@s.whatsapp.net": 10,
+          "62895323060893@s.whatsapp.net": 11,
           "6285878475969@s.whatsapp.net": 7,
           "6281469829552@s.whatsapp.net": 11,
           "6289627559010@s.whatsapp.net": 1,
@@ -130152,7 +130152,14 @@
         }
       },
       "customData": {},
-      "afk": {}
+      "afk": {},
+      "goodbye": false,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null
     },
     "120363411469919979@g.us": {
       "jid": "120363411469919979@g.us",
