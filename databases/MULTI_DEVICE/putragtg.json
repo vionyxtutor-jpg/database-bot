@@ -73584,7 +73584,8 @@
       "antitoxic": false,
       "antispam": false,
       "mute": false,
-      "customData": {}
+      "customData": {},
+      "afk": {}
     },
     "120363430850574093@g.us": {
       "jid": "120363430850574093@g.us",
@@ -73733,10 +73734,10 @@
           "6282121229329@s.whatsapp.net": 4,
           "628886374489@s.whatsapp.net": 4,
           "628889336705@s.whatsapp.net": 357,
-          "6283847871076@s.whatsapp.net": 49,
+          "6283847871076@s.whatsapp.net": 52,
           "62895416773444@s.whatsapp.net": 29,
           "6285138087191@s.whatsapp.net": 19,
-          "6285134555700@s.whatsapp.net": 31
+          "6285134555700@s.whatsapp.net": 36
         },
         "weekly": {
           "6282177333688@s.whatsapp.net": 4469,
@@ -73809,10 +73810,10 @@
           "6282121229329@s.whatsapp.net": 4,
           "628886374489@s.whatsapp.net": 4,
           "628889336705@s.whatsapp.net": 357,
-          "6283847871076@s.whatsapp.net": 49,
+          "6283847871076@s.whatsapp.net": 52,
           "62895416773444@s.whatsapp.net": 29,
           "6285138087191@s.whatsapp.net": 19,
-          "6285134555700@s.whatsapp.net": 31
+          "6285134555700@s.whatsapp.net": 36
         }
       },
       "customData": {},
