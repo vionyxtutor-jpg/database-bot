@@ -170,7 +170,7 @@
       "registered": true,
       "registeredAt": 1791163721577,
       "level": 0,
-      "exp": 275,
+      "exp": 290,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -6084,14 +6084,14 @@
       "mute": false,
       "stats": {
         "daily": {
-          "6285715573972@s.whatsapp.net": 67,
+          "6285715573972@s.whatsapp.net": 72,
           "6281292332058@s.whatsapp.net": 38,
-          "6287724175554@s.whatsapp.net": 3
+          "6287724175554@s.whatsapp.net": 5
         },
         "weekly": {
-          "6285715573972@s.whatsapp.net": 67,
+          "6285715573972@s.whatsapp.net": 72,
           "6281292332058@s.whatsapp.net": 38,
-          "6287724175554@s.whatsapp.net": 3
+          "6287724175554@s.whatsapp.net": 5
         }
       },
       "customData": {},
