@@ -81188,11 +81188,11 @@
     },
     "6283173878108@s.whatsapp.net": {
       "jid": "6283173878108@s.whatsapp.net",
-      "name": "",
-      "registered": false,
-      "registeredAt": 0,
+      "name": "rifz",
+      "registered": true,
+      "registeredAt": 1791685606106,
       "level": 0,
-      "exp": 75,
+      "exp": 80,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -84325,12 +84325,12 @@
       "mute": false,
       "stats": {
         "daily": {
-          "6283173878108@s.whatsapp.net": 59,
+          "6283173878108@s.whatsapp.net": 60,
           "6289518558616@s.whatsapp.net": 48,
           "6281412178808@s.whatsapp.net": 6
         },
         "weekly": {
-          "6283173878108@s.whatsapp.net": 59,
+          "6283173878108@s.whatsapp.net": 60,
           "6289518558616@s.whatsapp.net": 48,
           "6281412178808@s.whatsapp.net": 6
         }
