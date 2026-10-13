@@ -293113,15 +293113,22 @@
       "stats": {
         "daily": {
           "6282151660853@s.whatsapp.net": 2,
-          "628984709528@s.whatsapp.net": 1
+          "628984709528@s.whatsapp.net": 2
         },
         "weekly": {
           "6282151660853@s.whatsapp.net": 2,
-          "628984709528@s.whatsapp.net": 1
+          "628984709528@s.whatsapp.net": 2
         }
       },
       "customData": {},
-      "afk": {}
+      "afk": {},
+      "goodbye": false,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null
     }
   },
   "antilink": {
