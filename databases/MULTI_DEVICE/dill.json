@@ -629259,7 +629259,7 @@
           "628386400056@s.whatsapp.net": 7,
           "6285789619747@s.whatsapp.net": 6,
           "6285741825121@s.whatsapp.net": 1,
-          "6285709648072@s.whatsapp.net": 12,
+          "6285709648072@s.whatsapp.net": 13,
           "6285279697956@s.whatsapp.net": 6,
           "6283169672897@s.whatsapp.net": 11,
           "6282317752327@s.whatsapp.net": 4,
@@ -630118,7 +630118,7 @@
           "628386400056@s.whatsapp.net": 7,
           "6285789619747@s.whatsapp.net": 6,
           "6285741825121@s.whatsapp.net": 1,
-          "6285709648072@s.whatsapp.net": 12,
+          "6285709648072@s.whatsapp.net": 13,
           "6285279697956@s.whatsapp.net": 6,
           "6283169672897@s.whatsapp.net": 11,
           "6282317752327@s.whatsapp.net": 4,
@@ -632619,7 +632619,14 @@
         }
       },
       "customData": {},
-      "afk": {}
+      "afk": {},
+      "goodbye": false,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null
     },
     "120363400183767041@g.us": {
       "jid": "120363400183767041@g.us",
@@ -632660,6 +632667,48 @@
         }
       },
       "afk": {}
+    },
+    "120363427410608402@g.us": {
+      "jid": "120363427410608402@g.us",
+      "name": "",
+      "welcome": false,
+      "goodbye": false,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null,
+      "antilink": false,
+      "antilinkAction": "kick",
+      "antibot": false,
+      "antidelete": false,
+      "antivirtex": false,
+      "antitoxic": false,
+      "antispam": false,
+      "mute": false,
+      "customData": {}
+    },
+    "120363408275695062@g.us": {
+      "jid": "120363408275695062@g.us",
+      "name": "",
+      "welcome": false,
+      "goodbye": false,
+      "welcomeText": null,
+      "byeText": null,
+      "welcomeImg": null,
+      "byeImg": null,
+      "welcomeBgUrl": null,
+      "goodbyeBgUrl": null,
+      "antilink": false,
+      "antilinkAction": "kick",
+      "antibot": false,
+      "antidelete": false,
+      "antivirtex": false,
+      "antitoxic": false,
+      "antispam": false,
+      "mute": false,
+      "customData": {}
     }
   },
   "antilink": {
