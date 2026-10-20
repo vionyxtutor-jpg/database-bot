@@ -781492,7 +781492,7 @@
       "registered": false,
       "registeredAt": 0,
       "level": 0,
-      "exp": 5,
+      "exp": 10,
       "money": 0,
       "lastClaim": 0,
       "lastDaily": 0,
@@ -796893,7 +796893,7 @@
           "6282130049438@s.whatsapp.net": 2,
           "6287838445199@s.whatsapp.net": 4,
           "6283835111735@s.whatsapp.net": 4,
-          "6283840726066@s.whatsapp.net": 15,
+          "6283840726066@s.whatsapp.net": 16,
           "6285845597002@s.whatsapp.net": 3,
           "6283171771781@s.whatsapp.net": 10,
           "50942460485@s.whatsapp.net": 30,
@@ -796991,7 +796991,7 @@
           "6282130049438@s.whatsapp.net": 2,
           "6287838445199@s.whatsapp.net": 4,
           "6283835111735@s.whatsapp.net": 4,
-          "6283840726066@s.whatsapp.net": 15,
+          "6283840726066@s.whatsapp.net": 16,
           "6285845597002@s.whatsapp.net": 3,
           "6283171771781@s.whatsapp.net": 10,
           "50942460485@s.whatsapp.net": 30,
@@ -798246,11 +798246,11 @@
           "6282171900210@s.whatsapp.net": 62,
           "62881037477661@s.whatsapp.net": 68,
           "6283892311390@s.whatsapp.net": 46,
-          "6287865924756@s.whatsapp.net": 174,
+          "6287865924756@s.whatsapp.net": 183,
           "6283180175331@s.whatsapp.net": 3,
           "6285820685491@s.whatsapp.net": 67,
           "6288983880837@s.whatsapp.net": 4,
-          "6289697149192@s.whatsapp.net": 27
+          "6289697149192@s.whatsapp.net": 32
         },
         "weekly": {
           "62895629519862@s.whatsapp.net": 92,
@@ -798259,11 +798259,11 @@
           "6282171900210@s.whatsapp.net": 62,
           "62881037477661@s.whatsapp.net": 68,
           "6283892311390@s.whatsapp.net": 46,
-          "6287865924756@s.whatsapp.net": 174,
+          "6287865924756@s.whatsapp.net": 183,
           "6283180175331@s.whatsapp.net": 3,
           "6285820685491@s.whatsapp.net": 67,
           "6288983880837@s.whatsapp.net": 4,
-          "6289697149192@s.whatsapp.net": 27
+          "6289697149192@s.whatsapp.net": 32
         }
       },
       "customData": {},
