@@ -37906,12 +37906,13 @@
     "120363412491649258@g.us": {
       "stats": {
         "daily": {
-          "6282135318890@s.whatsapp.net": 1
+          "6282135318890@s.whatsapp.net": 2
         },
         "weekly": {
-          "6282135318890@s.whatsapp.net": 1
+          "6282135318890@s.whatsapp.net": 2
         }
-      }
+      },
+      "afk": {}
     }
   },
   "antilink": {
