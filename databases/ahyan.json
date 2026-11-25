@@ -38993,12 +38993,13 @@
     "120363410394080654@g.us": {
       "stats": {
         "daily": {
-          "6282141091819@s.whatsapp.net": 1
+          "6282141091819@s.whatsapp.net": 2
         },
         "weekly": {
-          "6282141091819@s.whatsapp.net": 1
+          "6282141091819@s.whatsapp.net": 2
         }
-      }
+      },
+      "afk": {}
     }
   },
   "antilink": {
