@@ -39214,12 +39214,17 @@
     "120363431050601389@g.us": {
       "stats": {
         "daily": {
-          "6285823416254@s.whatsapp.net": 1
+          "6285823416254@s.whatsapp.net": 2
         },
         "weekly": {
-          "6285823416254@s.whatsapp.net": 1
+          "6285823416254@s.whatsapp.net": 2
         }
-      }
+      },
+      "blacklist": [],
+      "antitagsw": false,
+      "antitagswkick": false,
+      "warn": {},
+      "afk": {}
     }
   },
   "antilink": {
@@ -39252,6 +39257,16 @@
       "tg": false,
       "tt": false,
       "tw": false
+    },
+    "120363431050601389@g.us": {
+      "gc": false,
+      "ch": false,
+      "ig": false,
+      "tg": false,
+      "tw": false,
+      "tt": false,
+      "fb": false,
+      "all": false
     }
   },
   "sewa": [],
