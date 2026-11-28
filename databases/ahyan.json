@@ -38123,7 +38123,7 @@
       "premiumTime": 0
     },
     "6285697454675@s.whatsapp.net": {
-      "exp": 0,
+      "exp": 10,
       "level": 1,
       "money": 0,
       "role": "🌱 Pemula",
@@ -42113,7 +42113,7 @@
       "premiumTime": 0
     },
     "6281337221976@s.whatsapp.net": {
-      "exp": 278,
+      "exp": 313,
       "level": 1,
       "money": 5,
       "role": "🌱 Pemula",
@@ -46064,7 +46064,7 @@
           "6285748849506@s.whatsapp.net": 7,
           "6285752565003@s.whatsapp.net": 1,
           "6285850477521@s.whatsapp.net": 1,
-          "6285697454675@s.whatsapp.net": 7,
+          "6285697454675@s.whatsapp.net": 12,
           "628884537313@s.whatsapp.net": 2,
           "6281396229094@s.whatsapp.net": 1,
           "6282164602573@s.whatsapp.net": 3,
@@ -46083,7 +46083,7 @@
           "6285882920241@s.whatsapp.net": 1,
           "6285154786641@s.whatsapp.net": 1,
           "6283189957519@s.whatsapp.net": 2,
-          "6281337221976@s.whatsapp.net": 20
+          "6281337221976@s.whatsapp.net": 31
         },
         "weekly": {
           "6285864580922@s.whatsapp.net": 1,
@@ -46091,7 +46091,7 @@
           "6285748849506@s.whatsapp.net": 7,
           "6285752565003@s.whatsapp.net": 1,
           "6285850477521@s.whatsapp.net": 1,
-          "6285697454675@s.whatsapp.net": 7,
+          "6285697454675@s.whatsapp.net": 12,
           "628884537313@s.whatsapp.net": 2,
           "6281396229094@s.whatsapp.net": 1,
           "6282164602573@s.whatsapp.net": 3,
@@ -46110,7 +46110,7 @@
           "6285882920241@s.whatsapp.net": 1,
           "6285154786641@s.whatsapp.net": 1,
           "6283189957519@s.whatsapp.net": 2,
-          "6281337221976@s.whatsapp.net": 20
+          "6281337221976@s.whatsapp.net": 31
         }
       },
       "welcome": false,
